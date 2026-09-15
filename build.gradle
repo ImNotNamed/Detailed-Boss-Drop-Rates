@@ -14,7 +14,7 @@ repositories {
 }
 
 def runeLiteVersion = 'latest.release'
-def pluginMainClass = 'com.example.ExamplePluginTest'
+def pluginMainClass = 'com.customplugins.droprates.DropRatesPluginTest'
 
 dependencies {
 	compileOnly group: 'net.runelite', name:'client', version: runeLiteVersion
@@ -27,7 +27,7 @@ dependencies {
 	testImplementation group: 'net.runelite', name:'jshell', version: runeLiteVersion
 }
 
-group = 'com.example'
+group = 'com.customplugins'
 
 tasks.withType(JavaCompile).configureEach {
 	options.encoding = 'UTF-8'
@@ -66,4 +66,14 @@ tasks.register('shadowJar', Jar) {
 	group = BasePlugin.BUILD_GROUP
 	archiveClassifier.set('shadow')
 	archiveFileName.set("${rootProject.name}-${project.version}-all.jar")
+}
+
+tasks.register('screenshot', JavaExec) {
+	classpath = sourceSets.test.runtimeClasspath
+	mainClass = 'com.customplugins.droprates.ScreenshotHarness'
+}
+
+tasks.register('screenshotConfig', JavaExec) {
+	classpath = sourceSets.test.runtimeClasspath
+	mainClass = 'com.customplugins.droprates.ConfigVariantsHarness'
 }

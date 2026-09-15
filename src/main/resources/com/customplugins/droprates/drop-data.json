@@ -1,0 +1,5852 @@
+{
+  "entries": [
+    {
+      "id": "general-graardor",
+      "displayName": "General Graardor",
+      "category": "God Wars Dungeon",
+      "npcNames": [
+        "General Graardor"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/General_Graardor",
+      "dropGroups": [
+        {
+          "groupName": "Main uniques",
+          "drops": [
+            {
+              "item": "Bandos chestplate",
+              "denominator": 381
+            },
+            {
+              "item": "Bandos tassets",
+              "denominator": 381
+            },
+            {
+              "item": "Bandos boots",
+              "denominator": 381
+            },
+            {
+              "item": "Bandos hilt",
+              "denominator": 508
+            }
+          ],
+          "combined": [
+            {
+              "label": "Any armour piece",
+              "denominator": 127
+            },
+            {
+              "label": "Any unique (armour + hilt)",
+              "denominator": 102
+            }
+          ]
+        },
+        {
+          "groupName": "Tertiary - Godsword shards",
+          "drops": [
+            {
+              "item": "Godsword shard 1",
+              "denominator": 762
+            },
+            {
+              "item": "Godsword shard 2",
+              "denominator": 762
+            },
+            {
+              "item": "Godsword shard 3",
+              "denominator": 762
+            }
+          ],
+          "combined": [
+            {
+              "label": "Any godsword shard",
+              "denominator": 254
+            }
+          ]
+        }
+      ],
+      "pet": {
+        "item": "Pet General Graardor",
+        "denominator": 5000
+      },
+      "secondarySources": [
+        {
+          "sourceName": "Bandos bodyguards (Sergeant Steelwill, Sergeant Strongstack, Sergeant Grimspike) - each, individually",
+          "drops": [
+            {
+              "item": "Bandos armour piece (each)",
+              "denominator": 16256
+            },
+            {
+              "item": "Godsword shard (each)",
+              "denominator": 1524
+            }
+          ],
+          "combined": [
+            {
+              "label": "Any armour piece (from one bodyguard)",
+              "denominator": 5419
+            },
+            {
+              "label": "Any godsword shard (from one bodyguard)",
+              "denominator": 508
+            },
+            {
+              "label": "Any unique, armour or shard (from one bodyguard)",
+              "denominator": 464
+            }
+          ]
+        }
+      ],
+      "combatLevel": 624
+    },
+    {
+      "id": "kreearra",
+      "displayName": "Kree'arra",
+      "category": "God Wars Dungeon",
+      "npcNames": [
+        "Kree'arra"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Kree%27arra",
+      "dropGroups": [
+        {
+          "groupName": "Main uniques",
+          "drops": [
+            {
+              "item": "Armadyl helmet",
+              "denominator": 381
+            },
+            {
+              "item": "Armadyl chestplate",
+              "denominator": 381
+            },
+            {
+              "item": "Armadyl chainskirt",
+              "denominator": 381
+            },
+            {
+              "item": "Armadyl hilt",
+              "denominator": 508
+            }
+          ],
+          "combined": [
+            {
+              "label": "Any armour piece",
+              "denominator": 127
+            },
+            {
+              "label": "Any unique (armour + hilt)",
+              "denominator": 102
+            }
+          ]
+        },
+        {
+          "groupName": "Tertiary - Godsword shards",
+          "drops": [
+            {
+              "item": "Godsword shard 1",
+              "denominator": 762
+            },
+            {
+              "item": "Godsword shard 2",
+              "denominator": 762
+            },
+            {
+              "item": "Godsword shard 3",
+              "denominator": 762
+            }
+          ],
+          "combined": [
+            {
+              "label": "Any godsword shard",
+              "denominator": 254
+            }
+          ]
+        }
+      ],
+      "pet": {
+        "item": "Pet Kree'arra",
+        "denominator": 5000
+      },
+      "secondarySources": [
+        {
+          "sourceName": "Aviansie bodyguards (Flockleader Geerin, Flight Kilisa, Wingman Skree) - each, individually",
+          "drops": [
+            {
+              "item": "Armadyl armour piece (each)",
+              "denominator": 16129
+            },
+            {
+              "item": "Godsword shard (each)",
+              "denominator": 1524
+            }
+          ],
+          "combined": [
+            {
+              "label": "Any armour piece (from one bodyguard)",
+              "denominator": 5376
+            },
+            {
+              "label": "Any godsword shard (from one bodyguard)",
+              "denominator": 508
+            },
+            {
+              "label": "Any unique, armour or shard (from one bodyguard)",
+              "denominator": 464
+            }
+          ]
+        }
+      ],
+      "combatLevel": 580
+    },
+    {
+      "id": "commander-zilyana",
+      "displayName": "Commander Zilyana",
+      "category": "God Wars Dungeon",
+      "npcNames": [
+        "Commander Zilyana"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Commander_Zilyana",
+      "dropGroups": [
+        {
+          "groupName": "Main uniques",
+          "drops": [
+            {
+              "item": "Saradomin sword",
+              "denominator": 127
+            },
+            {
+              "item": "Saradomin's light",
+              "denominator": 254
+            },
+            {
+              "item": "Armadyl crossbow",
+              "denominator": 508
+            },
+            {
+              "item": "Saradomin hilt",
+              "denominator": 508
+            }
+          ],
+          "combined": [
+            {
+              "label": "Any unique",
+              "denominator": 66
+            }
+          ]
+        },
+        {
+          "groupName": "Tertiary - Godsword shards",
+          "drops": [
+            {
+              "item": "Godsword shard 1",
+              "denominator": 762
+            },
+            {
+              "item": "Godsword shard 2",
+              "denominator": 762
+            },
+            {
+              "item": "Godsword shard 3",
+              "denominator": 762
+            }
+          ],
+          "combined": [
+            {
+              "label": "Any godsword shard",
+              "denominator": 254
+            }
+          ]
+        }
+      ],
+      "pet": {
+        "item": "Pet Zilyana",
+        "denominator": 5000
+      },
+      "secondarySources": [
+        {
+          "sourceName": "Saradomin bodyguards (Bree, Growler, Starlight) - each, individually",
+          "drops": [
+            {
+              "item": "Saradomin sword",
+              "denominator": 5376
+            },
+            {
+              "item": "Godsword shard (each)",
+              "denominator": 1524
+            }
+          ],
+          "combined": [
+            {
+              "label": "Any unique, sword or shard (from one bodyguard)",
+              "denominator": 464
+            }
+          ]
+        }
+      ],
+      "combatLevel": 596
+    },
+    {
+      "id": "kril-tsutsaroth",
+      "displayName": "K'ril Tsutsaroth",
+      "category": "God Wars Dungeon",
+      "npcNames": [
+        "K'ril Tsutsaroth"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/K%27ril_Tsutsaroth",
+      "dropGroups": [
+        {
+          "groupName": "Main uniques",
+          "drops": [
+            {
+              "item": "Steam battlestaff",
+              "denominator": 127
+            },
+            {
+              "item": "Zamorakian spear",
+              "denominator": 127
+            },
+            {
+              "item": "Staff of the Dead",
+              "denominator": 508
+            },
+            {
+              "item": "Zamorak hilt",
+              "denominator": 508
+            }
+          ],
+          "combined": [
+            {
+              "label": "Any unique",
+              "denominator": 51
+            }
+          ]
+        },
+        {
+          "groupName": "Tertiary - Godsword shards",
+          "drops": [
+            {
+              "item": "Godsword shard 1",
+              "denominator": 762
+            },
+            {
+              "item": "Godsword shard 2",
+              "denominator": 762
+            },
+            {
+              "item": "Godsword shard 3",
+              "denominator": 762
+            }
+          ],
+          "combined": [
+            {
+              "label": "Any godsword shard",
+              "denominator": 254
+            }
+          ]
+        }
+      ],
+      "pet": {
+        "item": "Pet K'ril Tsutsaroth",
+        "denominator": 5000
+      },
+      "secondarySources": [
+        {
+          "sourceName": "Zamorak bodyguards (Balfrug Kreeyath, Tstanon Karlak, Zakl'n Gritch) - each, individually",
+          "drops": [
+            {
+              "item": "Zamorakian spear",
+              "denominator": 5376
+            },
+            {
+              "item": "Godsword shard (each)",
+              "denominator": 1524
+            }
+          ],
+          "combined": [
+            {
+              "label": "Any unique, spear or shard (from one bodyguard)",
+              "denominator": 464
+            }
+          ]
+        }
+      ],
+      "combatLevel": 650
+    },
+    {
+      "id": "nex",
+      "displayName": "Nex",
+      "category": "God Wars Dungeon",
+      "npcNames": [
+        "Nex"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Nex",
+      "drops": [
+        {
+          "item": "Ancient hilt",
+          "denominator": 516
+        },
+        {
+          "item": "Nihil horn",
+          "denominator": 258
+        },
+        {
+          "item": "Torva full helm (damaged)",
+          "denominator": 258
+        },
+        {
+          "item": "Torva platebody (damaged)",
+          "denominator": 258
+        },
+        {
+          "item": "Torva platelegs (damaged)",
+          "denominator": 258
+        },
+        {
+          "item": "Zaryte vambraces",
+          "denominator": 172
+        }
+      ],
+      "combined": [
+        {
+          "label": "Any unique",
+          "denominator": 43
+        }
+      ],
+      "pet": {
+        "item": "Nexling",
+        "denominator": 500
+      },
+      "combatLevel": 1001
+    },
+    {
+      "id": "theatre-of-blood",
+      "displayName": "Theatre of Blood",
+      "category": "Raids",
+      "npcNames": [],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
+      "dropGroups": [
+        {
+          "groupName": "Chance of any unique (per completion)",
+          "drops": [
+            {
+              "item": "Normal Mode",
+              "denominator": 9
+            },
+            {
+              "item": "Hard Mode (deathless)",
+              "denominator": 8
+            }
+          ]
+        },
+        {
+          "groupName": "If a unique hits, which one",
+          "drops": [
+            {
+              "item": "Avernic defender hilt",
+              "denominator": 2
+            },
+            {
+              "item": "Ghrazi rapier",
+              "denominator": 10
+            },
+            {
+              "item": "Sanguinesti staff",
+              "denominator": 10
+            },
+            {
+              "item": "Justiciar faceguard",
+              "denominator": 10
+            },
+            {
+              "item": "Justiciar chestguard",
+              "denominator": 10
+            },
+            {
+              "item": "Justiciar legguards",
+              "denominator": 10
+            },
+            {
+              "item": "Scythe of vitur",
+              "denominator": 19
+            }
+          ]
+        },
+        {
+          "groupName": "Tertiary rewards (Hard Mode only)",
+          "drops": [
+            {
+              "item": "Sanguine dust",
+              "denominator": 275
+            },
+            {
+              "item": "Sanguine ornament kit",
+              "denominator": 150
+            },
+            {
+              "item": "Holy ornament kit",
+              "denominator": 100
+            }
+          ]
+        }
+      ],
+      "pet": {
+        "item": "Lil' Zik",
+        "denominator": 6500
+      }
+    },
+    {
+      "id": "chambers-of-xeric",
+      "displayName": "Chambers of Xeric",
+      "category": "Raids",
+      "npcNames": [],
+      "type": "POINTS_BASED",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
+      "pointsPerPercent": 8675,
+      "capPercent": 65.7,
+      "capPoints": 570000,
+      "maxUniques": 6,
+      "uniqueItems": [
+        {
+          "item": "Dexterous prayer scroll",
+          "weight": 14
+        },
+        {
+          "item": "Arcane prayer scroll",
+          "weight": 14
+        },
+        {
+          "item": "Twisted buckler",
+          "weight": 4
+        },
+        {
+          "item": "Dragon hunter crossbow",
+          "weight": 4
+        },
+        {
+          "item": "Ancestral hat",
+          "weight": 4
+        },
+        {
+          "item": "Ancestral robe top",
+          "weight": 4
+        },
+        {
+          "item": "Ancestral robe bottom",
+          "weight": 4
+        },
+        {
+          "item": "Dinh's bulwark",
+          "weight": 3
+        },
+        {
+          "item": "Dragon claws",
+          "weight": 3
+        },
+        {
+          "item": "Elder maul",
+          "weight": 2
+        },
+        {
+          "item": "Kodai insignia",
+          "weight": 2
+        },
+        {
+          "item": "Twisted bow",
+          "weight": 2
+        }
+      ],
+      "uniqueItemsWeightTotal": 60,
+      "uniqueItemsChallengeMode": [
+        {
+          "item": "Dexterous prayer scroll",
+          "weight": 12
+        },
+        {
+          "item": "Arcane prayer scroll",
+          "weight": 12
+        },
+        {
+          "item": "Twisted buckler",
+          "weight": 4
+        },
+        {
+          "item": "Dragon hunter crossbow",
+          "weight": 4
+        },
+        {
+          "item": "Ancestral hat",
+          "weight": 4
+        },
+        {
+          "item": "Ancestral robe top",
+          "weight": 4
+        },
+        {
+          "item": "Ancestral robe bottom",
+          "weight": 4
+        },
+        {
+          "item": "Dinh's bulwark",
+          "weight": 3
+        },
+        {
+          "item": "Dragon claws",
+          "weight": 3
+        },
+        {
+          "item": "Elder maul",
+          "weight": 2
+        },
+        {
+          "item": "Kodai insignia",
+          "weight": 2
+        },
+        {
+          "item": "Twisted bow",
+          "weight": 2
+        }
+      ],
+      "uniqueItemsChallengeModeWeightTotal": 56,
+      "drops": [
+        {
+          "item": "Torn prayer scroll",
+          "denominator": 17
+        },
+        {
+          "item": "Dark relic",
+          "denominator": 17
+        },
+        {
+          "item": "Twisted ancestral colour kit (Challenge Mode, within time only)",
+          "denominator": 75
+        },
+        {
+          "item": "Metamorphic dust (Challenge Mode, within time only)",
+          "denominator": 400
+        }
+      ],
+      "pet": {
+        "item": "Olmlet (given you already hit a unique)",
+        "denominator": 53
+      }
+    },
+    {
+      "id": "tombs-of-amascut",
+      "displayName": "Tombs of Amascut",
+      "category": "Raids",
+      "npcNames": [],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Chest_(Tombs_of_Amascut)",
+      "dropGroups": [
+        {
+          "groupName": "Thread of Elidinis",
+          "drops": [
+            {
+              "item": "Thread of Elidinis (before you've ever obtained one)",
+              "denominator": 10
+            },
+            {
+              "item": "Thread of Elidinis (after you've already obtained one)",
+              "denominator": 50
+            }
+          ]
+        },
+        {
+          "groupName": "Keris partisan jewels (base rate, before duplicate protection)",
+          "drops": [
+            {
+              "item": "Breach of the Scarab",
+              "denominator": 50
+            },
+            {
+              "item": "Eye of the Corruptor",
+              "denominator": 50
+            },
+            {
+              "item": "Jewel of the Sun",
+              "denominator": 50
+            },
+            {
+              "item": "Jewel of Amascut",
+              "denominator": 50
+            }
+          ],
+          "combined": [
+            {
+              "label": "Any jewel",
+              "denominator": 13
+            }
+          ]
+        },
+        {
+          "groupName": "Tumeken's guardian (pet) - chance at 100,000 team points, by Raid Level",
+          "drops": [
+            {
+              "item": "Raid Level 150",
+              "denominator": 245
+            },
+            {
+              "item": "Raid Level 300",
+              "denominator": 140
+            },
+            {
+              "item": "Raid Level 400",
+              "denominator": 70
+            },
+            {
+              "item": "Raid Level 450+ (capped)",
+              "denominator": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wintertodt",
+      "displayName": "Wintertodt",
+      "category": "Skilling Bosses",
+      "npcNames": [
+        "Wintertodt"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Wintertodt",
+      "drops": [
+        {
+          "item": "Dragon axe",
+          "denominator": 10000
+        },
+        {
+          "item": "Tome of Fire (empty)",
+          "denominator": 1000
+        },
+        {
+          "item": "Warm gloves",
+          "denominator": 150
+        },
+        {
+          "item": "Bruma torch",
+          "denominator": 150
+        },
+        {
+          "item": "Pyromancer outfit piece",
+          "denominator": 150
+        },
+        {
+          "item": "Burnt page",
+          "denominator": 45
+        }
+      ],
+      "pet": {
+        "item": "Phoenix",
+        "denominator": 5000
+      }
+    },
+    {
+      "id": "tempoross",
+      "displayName": "Tempoross",
+      "category": "Skilling Bosses",
+      "npcNames": [
+        "Tempoross"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Tempoross",
+      "drops": [
+        {
+          "item": "Dragon harpoon",
+          "denominator": 8000
+        },
+        {
+          "item": "Tome of Water (empty)",
+          "denominator": 1600
+        },
+        {
+          "item": "Big harpoonfish",
+          "denominator": 1600
+        },
+        {
+          "item": "Tackle box",
+          "denominator": 400
+        },
+        {
+          "item": "Fish barrel",
+          "denominator": 400
+        },
+        {
+          "item": "Soaked page",
+          "denominator": 54
+        },
+        {
+          "item": "Spirit flakes",
+          "denominator": 4
+        }
+      ],
+      "pet": {
+        "item": "Tiny tempor",
+        "denominator": 8000
+      }
+    },
+    {
+      "id": "zalcano",
+      "displayName": "Zalcano",
+      "category": "Skilling Bosses",
+      "npcNames": [
+        "Zalcano"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Zalcano",
+      "drops": [
+        {
+          "item": "Uncut onyx",
+          "denominator": 8000
+        },
+        {
+          "item": "Crystal tool seed",
+          "denominator": 205
+        },
+        {
+          "item": "Zalcano shard (low contribution)",
+          "denominator": 1500
+        },
+        {
+          "item": "Zalcano shard (high contribution)",
+          "denominator": 750
+        }
+      ],
+      "pet": {
+        "item": "Smolcano",
+        "denominator": 2250
+      },
+      "combatLevel": 336
+    },
+    {
+      "id": "guardians-of-the-rift",
+      "displayName": "Guardians of the Rift",
+      "category": "Skilling Bosses",
+      "npcNames": [],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Rewards_Guardian",
+      "drops": [
+        {
+          "item": "Abyssal lantern",
+          "denominator": 700
+        },
+        {
+          "item": "Catalytic talisman",
+          "denominator": 200
+        },
+        {
+          "item": "Abyssal needle",
+          "denominator": 300
+        },
+        {
+          "item": "Abyssal red dye",
+          "denominator": 1200
+        },
+        {
+          "item": "Abyssal green dye",
+          "denominator": 1200
+        },
+        {
+          "item": "Abyssal blue dye",
+          "denominator": 1200
+        },
+        {
+          "item": "Abyssal pearls",
+          "denominator": 8
+        },
+        {
+          "item": "Intricate pouch",
+          "denominator": 28
+        },
+        {
+          "item": "Tarnished locket (via Intricate pouch)",
+          "denominator": 1120
+        },
+        {
+          "item": "Lost bag (via Intricate pouch)",
+          "denominator": 1680
+        }
+      ],
+      "pet": {
+        "item": "Abyssal protector",
+        "denominator": 4000
+      }
+    },
+    {
+      "id": "king-black-dragon",
+      "displayName": "King Black Dragon",
+      "category": "Wilderness Bosses",
+      "npcNames": [
+        "King Black Dragon"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/King_Black_Dragon",
+      "drops": [
+        {
+          "item": "Dragon pickaxe",
+          "denominator": 1000
+        },
+        {
+          "item": "Draconic visage",
+          "denominator": 5000
+        }
+      ],
+      "combined": [
+        {
+          "label": "Any unique",
+          "denominator": 833
+        }
+      ],
+      "pet": {
+        "item": "Prince Black Dragon",
+        "denominator": 3000
+      },
+      "combatLevel": 276
+    },
+    {
+      "id": "chaos-elemental",
+      "displayName": "Chaos Elemental",
+      "category": "Wilderness Bosses",
+      "npcNames": [
+        "Chaos Elemental"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Chaos_Elemental",
+      "drops": [
+        {
+          "item": "Dragon pickaxe",
+          "denominator": 256
+        },
+        {
+          "item": "Dragon 2h sword",
+          "denominator": 128
+        }
+      ],
+      "combined": [
+        {
+          "label": "Any unique",
+          "denominator": 85
+        }
+      ],
+      "pet": {
+        "item": "Pet chaos elemental",
+        "denominator": 300
+      },
+      "combatLevel": 305
+    },
+    {
+      "id": "crazy-archaeologist",
+      "displayName": "Crazy Archaeologist",
+      "category": "Wilderness Bosses",
+      "npcNames": [
+        "Crazy Archaeologist"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Crazy_Archaeologist",
+      "drops": [
+        {
+          "item": "Odium shard 2",
+          "denominator": 256
+        },
+        {
+          "item": "Malediction shard 2",
+          "denominator": 256
+        }
+      ],
+      "combined": [
+        {
+          "label": "Any shard",
+          "denominator": 128
+        }
+      ],
+      "combatLevel": 204
+    },
+    {
+      "id": "chaos-fanatic",
+      "displayName": "Chaos Fanatic",
+      "category": "Wilderness Bosses",
+      "npcNames": [
+        "Chaos Fanatic"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Chaos_Fanatic",
+      "drops": [
+        {
+          "item": "Odium shard 1",
+          "denominator": 256
+        },
+        {
+          "item": "Malediction shard 1",
+          "denominator": 256
+        },
+        {
+          "item": "Ancient staff",
+          "denominator": 128
+        }
+      ],
+      "combined": [
+        {
+          "label": "Any shard",
+          "denominator": 128
+        },
+        {
+          "label": "Any unique (incl. staff)",
+          "denominator": 64
+        }
+      ],
+      "pet": {
+        "item": "Chaos Fanatic pet",
+        "denominator": 1000
+      },
+      "combatLevel": 202
+    },
+    {
+      "id": "artio",
+      "displayName": "Artio",
+      "category": "Wilderness Bosses",
+      "npcNames": [
+        "Artio"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Artio",
+      "drops": [
+        {
+          "item": "Dragon 2h sword",
+          "denominator": 358
+        },
+        {
+          "item": "Dragon pickaxe",
+          "denominator": 358
+        },
+        {
+          "item": "Claws of Callisto",
+          "denominator": 618
+        },
+        {
+          "item": "Tyrannical ring",
+          "denominator": 716
+        },
+        {
+          "item": "Voidwaker hilt",
+          "denominator": 912
+        }
+      ],
+      "combined": [
+        {
+          "label": "Any unique",
+          "denominator": 103
+        }
+      ],
+      "pet": {
+        "item": "Callisto cub",
+        "denominator": 2800
+      },
+      "combatLevel": 320
+    },
+    {
+      "id": "callisto",
+      "displayName": "Callisto",
+      "category": "Wilderness Bosses",
+      "npcNames": [
+        "Callisto"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Callisto",
+      "drops": [
+        {
+          "item": "Claws of Callisto",
+          "denominator": 196
+        },
+        {
+          "item": "Dragon 2h sword",
+          "denominator": 256
+        },
+        {
+          "item": "Dragon pickaxe",
+          "denominator": 256
+        },
+        {
+          "item": "Voidwaker hilt",
+          "denominator": 360
+        },
+        {
+          "item": "Tyrannical ring",
+          "denominator": 512
+        }
+      ],
+      "combined": [
+        {
+          "label": "Any unique",
+          "denominator": 57
+        }
+      ],
+      "pet": {
+        "item": "Callisto cub",
+        "denominator": 1500
+      },
+      "combatLevel": 470
+    },
+    {
+      "id": "spindel",
+      "displayName": "Spindel",
+      "category": "Wilderness Bosses",
+      "npcNames": [
+        "Spindel"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Spindel",
+      "drops": [
+        {
+          "item": "Dragon 2h sword",
+          "denominator": 358
+        },
+        {
+          "item": "Dragon pickaxe",
+          "denominator": 358
+        },
+        {
+          "item": "Fangs of Venenatis",
+          "denominator": 618
+        },
+        {
+          "item": "Treasonous ring",
+          "denominator": 716
+        },
+        {
+          "item": "Voidwaker gem",
+          "denominator": 912
+        }
+      ],
+      "combined": [
+        {
+          "label": "Any unique",
+          "denominator": 103
+        }
+      ],
+      "pet": {
+        "item": "Venenatis' spiderling",
+        "denominator": 2800
+      },
+      "combatLevel": 302
+    },
+    {
+      "id": "venenatis",
+      "displayName": "Venenatis",
+      "category": "Wilderness Bosses",
+      "npcNames": [
+        "Venenatis"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Venenatis",
+      "drops": [
+        {
+          "item": "Fangs of Venenatis",
+          "denominator": 196
+        },
+        {
+          "item": "Dragon 2h sword",
+          "denominator": 256
+        },
+        {
+          "item": "Dragon pickaxe",
+          "denominator": 256
+        },
+        {
+          "item": "Voidwaker gem",
+          "denominator": 360
+        },
+        {
+          "item": "Treasonous ring",
+          "denominator": 512
+        }
+      ],
+      "combined": [
+        {
+          "label": "Any unique",
+          "denominator": 57
+        }
+      ],
+      "pet": {
+        "item": "Venenatis' spiderling",
+        "denominator": 1500
+      },
+      "combatLevel": 464
+    },
+    {
+      "id": "calvarion",
+      "displayName": "Calvar'ion",
+      "category": "Wilderness Bosses",
+      "npcNames": [
+        "Calvar'ion"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Calvar%27ion",
+      "drops": [
+        {
+          "item": "Dragon 2h sword",
+          "denominator": 358
+        },
+        {
+          "item": "Dragon pickaxe",
+          "denominator": 358
+        },
+        {
+          "item": "Skull of Vet'ion",
+          "denominator": 618
+        },
+        {
+          "item": "Ring of the gods",
+          "denominator": 716
+        },
+        {
+          "item": "Voidwaker blade",
+          "denominator": 912
+        }
+      ],
+      "combined": [
+        {
+          "label": "Any unique",
+          "denominator": 103
+        }
+      ],
+      "pet": {
+        "item": "Vet'ion Jr.",
+        "denominator": 2800
+      },
+      "combatLevel": 264
+    },
+    {
+      "id": "vetion",
+      "displayName": "Vet'ion",
+      "category": "Wilderness Bosses",
+      "npcNames": [
+        "Vet'ion",
+        "Vet'ion Reborn"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Vet%27ion",
+      "drops": [
+        {
+          "item": "Skull of Vet'ion",
+          "denominator": 196
+        },
+        {
+          "item": "Dragon 2h sword",
+          "denominator": 256
+        },
+        {
+          "item": "Dragon pickaxe",
+          "denominator": 256
+        },
+        {
+          "item": "Voidwaker blade",
+          "denominator": 360
+        },
+        {
+          "item": "Ring of the gods",
+          "denominator": 512
+        }
+      ],
+      "combined": [
+        {
+          "label": "Any unique",
+          "denominator": 57
+        }
+      ],
+      "pet": {
+        "item": "Vet'ion Jr.",
+        "denominator": 1500
+      },
+      "combatLevel": 454
+    },
+    {
+      "id": "scorpia",
+      "displayName": "Scorpia",
+      "category": "Wilderness Bosses",
+      "npcNames": [
+        "Scorpia"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Scorpia",
+      "drops": [
+        {
+          "item": "Odium shard 3",
+          "denominator": 256
+        },
+        {
+          "item": "Malediction shard 3",
+          "denominator": 256
+        }
+      ],
+      "combined": [
+        {
+          "label": "Any shard",
+          "denominator": 128
+        }
+      ],
+      "pet": {
+        "item": "Scorpia's offspring",
+        "denominator": 2016
+      },
+      "combatLevel": 225
+    },
+    {
+      "id": "revenant-maledictus",
+      "displayName": "Revenant Maledictus",
+      "category": "Wilderness Bosses",
+      "npcNames": [
+        "Revenant Maledictus"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_Maledictus",
+      "dropGroups": [
+        {
+          "groupName": "Off task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 13334
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 26667
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 26667
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 26667
+            }
+          ]
+        },
+        {
+          "groupName": "Off task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 7334
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 14667
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 14667
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 14667
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 2667
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 5333
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 5333
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 5333
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 1467
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 2933
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 2933
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 2933
+            }
+          ]
+        },
+        {
+          "groupName": "Ancient artifacts (unaffected by task status)",
+          "drops": [
+            {
+              "item": "Ancient crystal (unskulled)",
+              "denominator": 2667
+            },
+            {
+              "item": "Ancient crystal (skulled)",
+              "denominator": 1467
+            },
+            {
+              "item": "Ancient statuette (unskulled)",
+              "denominator": 4000
+            },
+            {
+              "item": "Ancient statuette (skulled)",
+              "denominator": 2200
+            }
+          ]
+        }
+      ],
+      "combatLevel": 397
+    },
+    {
+      "id": "crystalline-hunllef",
+      "displayName": "Crystalline Hunllef (Gauntlet)",
+      "category": "Minigame",
+      "npcNames": [
+        "Crystalline Hunllef"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Gauntlet_reward_chest",
+      "drops": [
+        {
+          "item": "Crystal weapon seed",
+          "denominator": 120
+        },
+        {
+          "item": "Crystal armour seed",
+          "denominator": 120
+        },
+        {
+          "item": "Enhanced crystal weapon seed",
+          "denominator": 2000
+        }
+      ],
+      "pet": {
+        "item": "Youngllef",
+        "denominator": 2000
+      },
+      "combatLevel": 674
+    },
+    {
+      "id": "corrupted-hunllef",
+      "displayName": "Corrupted Hunllef (Corrupted Gauntlet)",
+      "category": "Minigame",
+      "npcNames": [
+        "Corrupted Hunllef"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Gauntlet_reward_chest",
+      "drops": [
+        {
+          "item": "Crystal weapon seed",
+          "denominator": 50
+        },
+        {
+          "item": "Crystal armour seed",
+          "denominator": 50
+        },
+        {
+          "item": "Enhanced crystal weapon seed",
+          "denominator": 400
+        }
+      ],
+      "pet": {
+        "item": "Youngllef",
+        "denominator": 800
+      },
+      "combatLevel": 894
+    },
+    {
+      "id": "tztok-jad",
+      "displayName": "TzTok-Jad (Fight Caves)",
+      "category": "Minigame",
+      "npcNames": [
+        "TzTok-Jad"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/TzTok-Jad",
+      "drops": [
+        {
+          "item": "Tzrek-jad (off-task)",
+          "denominator": 200
+        },
+        {
+          "item": "Tzrek-jad (on TzHaar Slayer task)",
+          "denominator": 100
+        }
+      ],
+      "combatLevel": 702
+    },
+    {
+      "id": "tzkal-zuk",
+      "displayName": "TzKal-Zuk (Inferno)",
+      "category": "Minigame",
+      "npcNames": [
+        "TzKal-Zuk"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/TzKal-Zuk",
+      "drops": [
+        {
+          "item": "Jal-nib-rek (off-task)",
+          "denominator": 100
+        },
+        {
+          "item": "Jal-nib-rek (on TzHaar Slayer task)",
+          "denominator": 75
+        }
+      ],
+      "combatLevel": 1400
+    },
+    {
+      "id": "sol-heredit",
+      "displayName": "Sol Heredit (Fortis Colosseum)",
+      "category": "Minigame",
+      "npcNames": [
+        "Sol Heredit"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Sol_Heredit",
+      "drops": [
+        {
+          "item": "Tonalztics of ralos (uncharged, wave 12)",
+          "denominator": 192
+        },
+        {
+          "item": "Sunfire fanatic armour piece (wave 12)",
+          "denominator": 21
+        }
+      ],
+      "pet": {
+        "item": "Smol Heredit",
+        "denominator": 200
+      },
+      "combatLevel": 1563
+    },
+    {
+      "id": "shellbane-gryphon",
+      "displayName": "Shellbane Gryphon",
+      "category": "Slayer Bosses",
+      "npcNames": [
+        "Shellbane gryphon"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Shellbane_gryphon",
+      "drops": [
+        {
+          "item": "Belle's folly (tarnished)",
+          "denominator": 75
+        },
+        {
+          "item": "Jar of Feathers",
+          "denominator": 2000
+        }
+      ],
+      "pet": {
+        "item": "Gull",
+        "denominator": 3000
+      },
+      "combatLevel": 235
+    },
+    {
+      "id": "grotesque-guardians",
+      "displayName": "Grotesque Guardians",
+      "category": "Slayer Bosses",
+      "npcNames": [
+        "Dawn",
+        "Dusk"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Grotesque_Guardians",
+      "drops": [
+        {
+          "item": "Granite maul",
+          "denominator": 125
+        },
+        {
+          "item": "Granite gloves",
+          "denominator": 250
+        },
+        {
+          "item": "Granite ring",
+          "denominator": 250
+        },
+        {
+          "item": "Granite hammer",
+          "denominator": 375
+        },
+        {
+          "item": "Black tourmaline core",
+          "denominator": 500
+        }
+      ],
+      "pet": {
+        "item": "Noon",
+        "denominator": 3000
+      },
+      "combatLevel": 248
+    },
+    {
+      "id": "abyssal-sire",
+      "displayName": "Abyssal Sire",
+      "category": "Slayer Bosses",
+      "npcNames": [
+        "Abyssal Sire"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Abyssal_Sire",
+      "dropGroups": [
+        {
+          "groupName": "Unsired (main unique roll)",
+          "drops": [
+            {
+              "item": "Unsired",
+              "denominator": 100
+            }
+          ]
+        },
+        {
+          "groupName": "When processed at the Font of Consumption (overall, per Sire kill)",
+          "drops": [
+            {
+              "item": "Abyssal orphan (pet)",
+              "denominator": 2560
+            },
+            {
+              "item": "Abyssal whip",
+              "denominator": 1067
+            },
+            {
+              "item": "Abyssal dagger",
+              "denominator": 492
+            },
+            {
+              "item": "Abyssal head",
+              "denominator": 1280
+            },
+            {
+              "item": "Jar of Miasma",
+              "denominator": 985
+            },
+            {
+              "item": "Bludgeon axon",
+              "denominator": 619
+            },
+            {
+              "item": "Bludgeon claw",
+              "denominator": 619
+            },
+            {
+              "item": "Bludgeon spine",
+              "denominator": 619
+            }
+          ]
+        }
+      ],
+      "combatLevel": 350
+    },
+    {
+      "id": "kraken",
+      "displayName": "Kraken",
+      "category": "Slayer Bosses",
+      "npcNames": [
+        "Kraken"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Kraken",
+      "drops": [
+        {
+          "item": "Trident of the seas (full)",
+          "denominator": 512
+        },
+        {
+          "item": "Kraken tentacle",
+          "denominator": 400
+        },
+        {
+          "item": "Jar of Dirt",
+          "denominator": 1000
+        }
+      ],
+      "pet": {
+        "item": "Pet Kraken",
+        "denominator": 3000
+      },
+      "combatLevel": 291
+    },
+    {
+      "id": "cerberus",
+      "displayName": "Cerberus",
+      "category": "Slayer Bosses",
+      "npcNames": [
+        "Cerberus"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Cerberus",
+      "drops": [
+        {
+          "item": "Primordial crystal",
+          "denominator": 520
+        },
+        {
+          "item": "Pegasian crystal",
+          "denominator": 520
+        },
+        {
+          "item": "Eternal crystal",
+          "denominator": 520
+        },
+        {
+          "item": "Smouldering stone",
+          "denominator": 520
+        },
+        {
+          "item": "Jar of Souls",
+          "denominator": 2000
+        }
+      ],
+      "pet": {
+        "item": "Hellpuppy",
+        "denominator": 3000
+      },
+      "combatLevel": 318
+    },
+    {
+      "id": "araxxor",
+      "displayName": "Araxxor",
+      "category": "Slayer Bosses",
+      "npcNames": [
+        "Araxxor"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Araxxor",
+      "drops": [
+        {
+          "item": "Noxious pommel",
+          "denominator": 600
+        },
+        {
+          "item": "Noxious point",
+          "denominator": 600
+        },
+        {
+          "item": "Noxious blade",
+          "denominator": 600
+        },
+        {
+          "item": "Araxyte fang",
+          "denominator": 600
+        }
+      ],
+      "combined": [
+        {
+          "label": "Any noxious weapon piece",
+          "denominator": 200
+        }
+      ],
+      "pet": {
+        "item": "Nid",
+        "denominator": 3000
+      },
+      "combatLevel": 890
+    },
+    {
+      "id": "thermonuclear-smoke-devil",
+      "displayName": "Thermonuclear Smoke Devil",
+      "category": "Slayer Bosses",
+      "npcNames": [
+        "Thermonuclear smoke devil"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Thermonuclear_smoke_devil",
+      "drops": [
+        {
+          "item": "Occult necklace",
+          "denominator": 350
+        },
+        {
+          "item": "Smoke battlestaff",
+          "denominator": 512
+        },
+        {
+          "item": "Dragon chainbody",
+          "denominator": 2000
+        },
+        {
+          "item": "Jar of Smoke",
+          "denominator": 2000
+        }
+      ],
+      "pet": {
+        "item": "Pet smoke devil",
+        "denominator": 3000
+      },
+      "combatLevel": 301
+    },
+    {
+      "id": "alchemical-hydra",
+      "displayName": "Alchemical Hydra",
+      "category": "Slayer Bosses",
+      "npcNames": [
+        "Alchemical Hydra"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Alchemical_Hydra",
+      "drops": [
+        {
+          "item": "Hydra's eye",
+          "denominator": 181
+        },
+        {
+          "item": "Hydra's fang",
+          "denominator": 181
+        },
+        {
+          "item": "Hydra's heart",
+          "denominator": 181
+        },
+        {
+          "item": "Hydra tail",
+          "denominator": 513
+        },
+        {
+          "item": "Hydra leather",
+          "denominator": 514
+        },
+        {
+          "item": "Hydra's claw",
+          "denominator": 1001
+        },
+        {
+          "item": "Dragon thrownaxe",
+          "denominator": 2000
+        },
+        {
+          "item": "Dragon knife",
+          "denominator": 2001
+        },
+        {
+          "item": "Jar of Chemicals",
+          "denominator": 2000
+        }
+      ],
+      "pet": {
+        "item": "Ikkle Hydra",
+        "denominator": 3000
+      },
+      "combatLevel": 426
+    },
+    {
+      "id": "zulrah",
+      "displayName": "Zulrah",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Zulrah"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Zulrah",
+      "dropGroups": [
+        {
+          "groupName": "Uniques",
+          "drops": [
+            {
+              "item": "Tanzanite fang",
+              "denominator": 512
+            },
+            {
+              "item": "Magic fang",
+              "denominator": 512
+            },
+            {
+              "item": "Serpentine visage",
+              "denominator": 512
+            },
+            {
+              "item": "Uncut onyx",
+              "denominator": 512
+            }
+          ],
+          "combined": [
+            {
+              "label": "Any of the 4 uniques",
+              "denominator": 128
+            }
+          ]
+        },
+        {
+          "groupName": "Mutagens",
+          "drops": [
+            {
+              "item": "Tanzanite mutagen",
+              "denominator": 6554
+            },
+            {
+              "item": "Magma mutagen",
+              "denominator": 6554
+            }
+          ],
+          "combined": [
+            {
+              "label": "Either mutagen",
+              "denominator": 3277
+            }
+          ]
+        }
+      ],
+      "pet": {
+        "item": "Pet snakeling",
+        "denominator": 4000
+      },
+      "combatLevel": 725
+    },
+    {
+      "id": "barrows",
+      "displayName": "Barrows",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Ahrim the Blighted",
+        "Dharok the Wretched",
+        "Guthan the Infested",
+        "Karil the Tainted",
+        "Torag the Corrupted",
+        "Verac the Defiled"
+      ],
+      "type": "KILLCOUNT_FORMULA",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Chest_(Barrows)",
+      "formulaLabel": "Brothers killed before looting the chest",
+      "killcountRates": [
+        {
+          "count": 1,
+          "denominator": 392
+        },
+        {
+          "count": 2,
+          "denominator": 334
+        },
+        {
+          "count": 3,
+          "denominator": 276
+        },
+        {
+          "count": 4,
+          "denominator": 218
+        },
+        {
+          "count": 5,
+          "denominator": 160
+        },
+        {
+          "count": 6,
+          "denominator": 102
+        }
+      ],
+      "baseRolls": 1,
+      "extraRollsPerCount": 1,
+      "itemsPerCount": 4,
+      "brotherItems": [
+        {
+          "brother": "Ahrim the Blighted",
+          "items": [
+            "Ahrim's hood",
+            "Ahrim's robetop",
+            "Ahrim's robeskirt",
+            "Ahrim's staff"
+          ]
+        },
+        {
+          "brother": "Dharok the Wretched",
+          "items": [
+            "Dharok's helm",
+            "Dharok's platebody",
+            "Dharok's platelegs",
+            "Dharok's greataxe"
+          ]
+        },
+        {
+          "brother": "Guthan the Infested",
+          "items": [
+            "Guthan's helm",
+            "Guthan's platebody",
+            "Guthan's chainskirt",
+            "Guthan's warspear"
+          ]
+        },
+        {
+          "brother": "Karil the Tainted",
+          "items": [
+            "Karil's coif",
+            "Karil's leathertop",
+            "Karil's leatherskirt",
+            "Karil's crossbow"
+          ]
+        },
+        {
+          "brother": "Torag the Corrupted",
+          "items": [
+            "Torag's helm",
+            "Torag's platebody",
+            "Torag's platelegs",
+            "Torag's hammers"
+          ]
+        },
+        {
+          "brother": "Verac the Defiled",
+          "items": [
+            "Verac's helm",
+            "Verac's brassard",
+            "Verac's plateskirt",
+            "Verac's flail"
+          ]
+        }
+      ],
+      "combatLevel": 115
+    },
+    {
+      "id": "corporeal-beast",
+      "displayName": "Corporeal Beast",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Corporeal Beast"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Corporeal_Beast",
+      "drops": [
+        {
+          "item": "Spectral sigil",
+          "denominator": 1365
+        },
+        {
+          "item": "Arcane sigil",
+          "denominator": 1365
+        },
+        {
+          "item": "Elysian sigil",
+          "denominator": 4095
+        },
+        {
+          "item": "Spirit shield",
+          "denominator": 64
+        },
+        {
+          "item": "Holy elixir",
+          "denominator": 171
+        },
+        {
+          "item": "Jar of Spirits",
+          "denominator": 1000
+        }
+      ],
+      "pet": {
+        "item": "Pet dark core",
+        "denominator": 5000
+      },
+      "combatLevel": 785
+    },
+    {
+      "id": "kalphite-queen",
+      "displayName": "Kalphite Queen",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Kalphite Queen"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Kalphite_Queen",
+      "drops": [
+        {
+          "item": "Kq head",
+          "denominator": 128
+        },
+        {
+          "item": "Dragon chainbody",
+          "denominator": 128
+        },
+        {
+          "item": "Dragon 2h sword",
+          "denominator": 256
+        },
+        {
+          "item": "Dragon pickaxe",
+          "denominator": 400
+        },
+        {
+          "item": "Jar of Sand",
+          "denominator": 2000
+        }
+      ],
+      "pet": {
+        "item": "Kalphite Princess",
+        "denominator": 3000
+      },
+      "combatLevel": 333
+    },
+    {
+      "id": "dagannoth-rex",
+      "displayName": "Dagannoth Rex",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Dagannoth Rex"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Dagannoth_Rex",
+      "drops": [
+        {
+          "item": "Berserker ring",
+          "denominator": 128
+        },
+        {
+          "item": "Warrior ring",
+          "denominator": 128
+        },
+        {
+          "item": "Dragon axe",
+          "denominator": 128
+        }
+      ],
+      "pet": {
+        "item": "Pet Dagannoth Rex",
+        "denominator": 5000
+      },
+      "combatLevel": 303
+    },
+    {
+      "id": "dagannoth-prime",
+      "displayName": "Dagannoth Prime",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Dagannoth Prime"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Dagannoth_Prime",
+      "drops": [
+        {
+          "item": "Seers ring",
+          "denominator": 128
+        },
+        {
+          "item": "Mud battlestaff",
+          "denominator": 128
+        },
+        {
+          "item": "Dragon axe",
+          "denominator": 128
+        }
+      ],
+      "pet": {
+        "item": "Pet Dagannoth Prime",
+        "denominator": 5000
+      },
+      "combatLevel": 303
+    },
+    {
+      "id": "dagannoth-supreme",
+      "displayName": "Dagannoth Supreme",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Dagannoth Supreme"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Dagannoth_Supreme",
+      "drops": [
+        {
+          "item": "Archers ring",
+          "denominator": 128
+        },
+        {
+          "item": "Seercull",
+          "denominator": 128
+        },
+        {
+          "item": "Dragon axe",
+          "denominator": 128
+        }
+      ],
+      "pet": {
+        "item": "Pet Dagannoth Supreme",
+        "denominator": 5000
+      },
+      "combatLevel": 303
+    },
+    {
+      "id": "giant-mole",
+      "displayName": "Giant Mole",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Giant Mole"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Giant_Mole",
+      "drops": [
+        {
+          "item": "Immaculate mole skin",
+          "denominator": 50
+        },
+        {
+          "item": "Long bone",
+          "denominator": 400
+        },
+        {
+          "item": "Curved bone",
+          "denominator": 5013
+        }
+      ],
+      "pet": {
+        "item": "Baby Mole",
+        "denominator": 3000
+      },
+      "combatLevel": 230
+    },
+    {
+      "id": "sarachnis",
+      "displayName": "Sarachnis",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Sarachnis"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Sarachnis",
+      "drops": [
+        {
+          "item": "Sarachnis cudgel",
+          "denominator": 384
+        },
+        {
+          "item": "Dragon med helm",
+          "denominator": 192
+        },
+        {
+          "item": "Jar of Eyes",
+          "denominator": 2000
+        }
+      ],
+      "pet": {
+        "item": "Sraracha",
+        "denominator": 3000
+      },
+      "combatLevel": 318
+    },
+    {
+      "id": "vorkath",
+      "displayName": "Vorkath",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Vorkath"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Vorkath",
+      "drops": [
+        {
+          "item": "Dragonbone necklace",
+          "denominator": 1000
+        },
+        {
+          "item": "Draconic visage",
+          "denominator": 5000
+        },
+        {
+          "item": "Skeletal visage",
+          "denominator": 5000
+        },
+        {
+          "item": "Jar of Decay",
+          "denominator": 3000
+        }
+      ],
+      "pet": {
+        "item": "Vorki",
+        "denominator": 3000
+      },
+      "combatLevel": 732
+    },
+    {
+      "id": "duke-sucellus",
+      "displayName": "Duke Sucellus",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Duke Sucellus"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Duke_Sucellus",
+      "dropGroups": [
+        {
+          "groupName": "Regular",
+          "drops": [
+            {
+              "item": "Magus vestige",
+              "denominator": 720
+            },
+            {
+              "item": "Chromium ingot",
+              "denominator": 240
+            },
+            {
+              "item": "Eye of the Duke",
+              "denominator": 720
+            },
+            {
+              "item": "Virtus mask",
+              "denominator": 2160
+            },
+            {
+              "item": "Virtus robe top",
+              "denominator": 2160
+            },
+            {
+              "item": "Virtus robe bottom",
+              "denominator": 2160
+            }
+          ]
+        },
+        {
+          "groupName": "Awakened",
+          "drops": [
+            {
+              "item": "Magus vestige",
+              "denominator": 240
+            },
+            {
+              "item": "Chromium ingot",
+              "denominator": 80
+            },
+            {
+              "item": "Eye of the Duke",
+              "denominator": 240
+            },
+            {
+              "item": "Virtus mask",
+              "denominator": 720
+            },
+            {
+              "item": "Virtus robe top",
+              "denominator": 720
+            },
+            {
+              "item": "Virtus robe bottom",
+              "denominator": 720
+            }
+          ]
+        },
+        {
+          "groupName": "Secondary uniques (either version)",
+          "drops": [
+            {
+              "item": "Awakener's orb",
+              "denominator": 49
+            },
+            {
+              "item": "Frozen tablet",
+              "denominator": 26
+            },
+            {
+              "item": "Ice quartz",
+              "denominator": 207
+            }
+          ]
+        }
+      ],
+      "pet": {
+        "item": "Baron",
+        "denominator": 2500
+      },
+      "combatLevel": 758
+    },
+    {
+      "id": "the-leviathan",
+      "displayName": "The Leviathan",
+      "category": "Other Bosses",
+      "npcNames": [
+        "The Leviathan"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/The_Leviathan",
+      "dropGroups": [
+        {
+          "groupName": "Regular",
+          "drops": [
+            {
+              "item": "Venator vestige",
+              "denominator": 768
+            },
+            {
+              "item": "Chromium ingot",
+              "denominator": 256
+            },
+            {
+              "item": "Leviathan's lure",
+              "denominator": 768
+            },
+            {
+              "item": "Virtus mask",
+              "denominator": 2304
+            },
+            {
+              "item": "Virtus robe top",
+              "denominator": 2304
+            },
+            {
+              "item": "Virtus robe bottom",
+              "denominator": 2304
+            }
+          ]
+        },
+        {
+          "groupName": "Awakened",
+          "drops": [
+            {
+              "item": "Venator vestige",
+              "denominator": 256
+            },
+            {
+              "item": "Chromium ingot",
+              "denominator": 85
+            },
+            {
+              "item": "Leviathan's lure",
+              "denominator": 256
+            },
+            {
+              "item": "Virtus mask",
+              "denominator": 768
+            },
+            {
+              "item": "Virtus robe top",
+              "denominator": 768
+            },
+            {
+              "item": "Virtus robe bottom",
+              "denominator": 768
+            }
+          ]
+        },
+        {
+          "groupName": "Secondary uniques (either version)",
+          "drops": [
+            {
+              "item": "Awakener's orb",
+              "denominator": 54
+            },
+            {
+              "item": "Scarred tablet",
+              "denominator": 26
+            },
+            {
+              "item": "Smoke quartz",
+              "denominator": 206
+            }
+          ]
+        }
+      ],
+      "pet": {
+        "item": "Lil'viathan",
+        "denominator": 2500
+      },
+      "combatLevel": 798
+    },
+    {
+      "id": "the-whisperer",
+      "displayName": "The Whisperer",
+      "category": "Other Bosses",
+      "npcNames": [
+        "The Whisperer"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/The_Whisperer",
+      "dropGroups": [
+        {
+          "groupName": "Regular",
+          "drops": [
+            {
+              "item": "Bellator vestige",
+              "denominator": 512
+            },
+            {
+              "item": "Chromium ingot",
+              "denominator": 171
+            },
+            {
+              "item": "Siren's staff",
+              "denominator": 512
+            },
+            {
+              "item": "Virtus mask",
+              "denominator": 1536
+            },
+            {
+              "item": "Virtus robe top",
+              "denominator": 1536
+            },
+            {
+              "item": "Virtus robe bottom",
+              "denominator": 1536
+            }
+          ]
+        },
+        {
+          "groupName": "Awakened",
+          "drops": [
+            {
+              "item": "Bellator vestige",
+              "denominator": 171
+            },
+            {
+              "item": "Chromium ingot",
+              "denominator": 57
+            },
+            {
+              "item": "Siren's staff",
+              "denominator": 171
+            },
+            {
+              "item": "Virtus mask",
+              "denominator": 512
+            },
+            {
+              "item": "Virtus robe top",
+              "denominator": 512
+            },
+            {
+              "item": "Virtus robe bottom",
+              "denominator": 512
+            }
+          ]
+        },
+        {
+          "groupName": "Secondary uniques (either version)",
+          "drops": [
+            {
+              "item": "Awakener's orb",
+              "denominator": 35
+            },
+            {
+              "item": "Sirenic tablet",
+              "denominator": 26
+            },
+            {
+              "item": "Shadow quartz",
+              "denominator": 209
+            }
+          ]
+        }
+      ],
+      "pet": {
+        "item": "Wisp",
+        "denominator": 2000
+      },
+      "combatLevel": 791
+    },
+    {
+      "id": "vardorvis",
+      "displayName": "Vardorvis",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Vardorvis"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Vardorvis",
+      "dropGroups": [
+        {
+          "groupName": "Regular",
+          "drops": [
+            {
+              "item": "Ultor vestige",
+              "denominator": 1088
+            },
+            {
+              "item": "Chromium ingot",
+              "denominator": 363
+            },
+            {
+              "item": "Executioner's axe head",
+              "denominator": 1088
+            },
+            {
+              "item": "Virtus mask",
+              "denominator": 3264
+            },
+            {
+              "item": "Virtus robe top",
+              "denominator": 3264
+            },
+            {
+              "item": "Virtus robe bottom",
+              "denominator": 3264
+            }
+          ]
+        },
+        {
+          "groupName": "Awakened",
+          "drops": [
+            {
+              "item": "Ultor vestige",
+              "denominator": 363
+            },
+            {
+              "item": "Chromium ingot",
+              "denominator": 121
+            },
+            {
+              "item": "Executioner's axe head",
+              "denominator": 363
+            },
+            {
+              "item": "Virtus mask",
+              "denominator": 1088
+            },
+            {
+              "item": "Virtus robe top",
+              "denominator": 1088
+            },
+            {
+              "item": "Virtus robe bottom",
+              "denominator": 1088
+            }
+          ]
+        },
+        {
+          "groupName": "Secondary uniques (either version)",
+          "drops": [
+            {
+              "item": "Strangled tablet",
+              "denominator": 26
+            },
+            {
+              "item": "Awakener's orb",
+              "denominator": 81
+            },
+            {
+              "item": "Blood quartz",
+              "denominator": 204
+            }
+          ]
+        }
+      ],
+      "pet": {
+        "item": "Butch",
+        "denominator": 3000
+      },
+      "combatLevel": 784
+    },
+    {
+      "id": "phantom-muspah",
+      "displayName": "Phantom Muspah",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Phantom Muspah"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Phantom_Muspah",
+      "drops": [
+        {
+          "item": "Frozen cache",
+          "denominator": 25
+        },
+        {
+          "item": "Ancient icon",
+          "denominator": 50
+        },
+        {
+          "item": "Venator shard",
+          "denominator": 100
+        }
+      ],
+      "pet": {
+        "item": "Muphin",
+        "denominator": 2500
+      },
+      "combatLevel": 741
+    },
+    {
+      "id": "the-nightmare",
+      "displayName": "The Nightmare",
+      "category": "Other Bosses",
+      "npcNames": [
+        "The Nightmare"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/The_Nightmare",
+      "dropGroups": [
+        {
+          "groupName": "Armour/staff table (solo baseline)",
+          "drops": [
+            {
+              "item": "Nightmare staff",
+              "denominator": 300
+            },
+            {
+              "item": "Inquisitor's great helm",
+              "denominator": 420
+            },
+            {
+              "item": "Inquisitor's hauberk",
+              "denominator": 420
+            },
+            {
+              "item": "Inquisitor's plateskirt",
+              "denominator": 420
+            },
+            {
+              "item": "Inquisitor's mace",
+              "denominator": 750
+            }
+          ]
+        },
+        {
+          "groupName": "Orb table (solo baseline)",
+          "drops": [
+            {
+              "item": "Eldritch orb",
+              "denominator": 960
+            },
+            {
+              "item": "Harmonised orb",
+              "denominator": 960
+            },
+            {
+              "item": "Volatile orb",
+              "denominator": 960
+            }
+          ]
+        }
+      ],
+      "pet": {
+        "item": "Little Nightmare",
+        "denominator": 800
+      },
+      "combatLevel": 814
+    },
+    {
+      "id": "phosanis-nightmare",
+      "displayName": "Phosani's Nightmare",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Phosani's Nightmare"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Phosani%27s_Nightmare",
+      "dropGroups": [
+        {
+          "groupName": "Armour/staff table",
+          "drops": [
+            {
+              "item": "Nightmare staff",
+              "denominator": 507
+            },
+            {
+              "item": "Inquisitor's great helm",
+              "denominator": 700
+            },
+            {
+              "item": "Inquisitor's hauberk",
+              "denominator": 700
+            },
+            {
+              "item": "Inquisitor's plateskirt",
+              "denominator": 700
+            },
+            {
+              "item": "Inquisitor's mace",
+              "denominator": 1129
+            }
+          ]
+        },
+        {
+          "groupName": "Orb table",
+          "drops": [
+            {
+              "item": "Eldritch orb",
+              "denominator": 1600
+            },
+            {
+              "item": "Harmonised orb",
+              "denominator": 1600
+            },
+            {
+              "item": "Volatile orb",
+              "denominator": 1600
+            }
+          ]
+        }
+      ],
+      "pet": {
+        "item": "Little Nightmare",
+        "denominator": 1400
+      },
+      "combatLevel": 1024
+    },
+    {
+      "id": "yama",
+      "displayName": "Yama",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Yama"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Yama",
+      "drops": [
+        {
+          "item": "Soulflame horn",
+          "denominator": 300
+        },
+        {
+          "item": "Oathplate helm",
+          "denominator": 600
+        },
+        {
+          "item": "Oathplate chest",
+          "denominator": 600
+        },
+        {
+          "item": "Oathplate legs",
+          "denominator": 600
+        }
+      ],
+      "pet": {
+        "item": "Yami",
+        "denominator": 2500
+      },
+      "combatLevel": 1238
+    },
+    {
+      "id": "eldric-the-ice-king",
+      "displayName": "Eldric the Ice King",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Eldric the Ice King"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Royal_Titans",
+      "drops": [
+        {
+          "item": "Ice element staff crown",
+          "denominator": 75
+        },
+        {
+          "item": "Deadeye prayer scroll",
+          "denominator": 75
+        },
+        {
+          "item": "Giantsoul amulet",
+          "denominator": 16
+        }
+      ],
+      "pet": {
+        "item": "Bran",
+        "denominator": 3000
+      },
+      "combatLevel": 350
+    },
+    {
+      "id": "branda-the-fire-queen",
+      "displayName": "Branda the Fire Queen",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Branda the Fire Queen"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Royal_Titans",
+      "drops": [
+        {
+          "item": "Fire element staff crown",
+          "denominator": 75
+        },
+        {
+          "item": "Mystic vigour prayer scroll",
+          "denominator": 75
+        },
+        {
+          "item": "Giantsoul amulet",
+          "denominator": 16
+        }
+      ],
+      "pet": {
+        "item": "Bran",
+        "denominator": 3000
+      },
+      "combatLevel": 350
+    },
+    {
+      "id": "amoxliatl",
+      "displayName": "Amoxliatl",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Amoxliatl"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Amoxliatl",
+      "drops": [
+        {
+          "item": "Glacial temotli",
+          "denominator": 100
+        },
+        {
+          "item": "Pendant of Ates (inert)",
+          "denominator": 25
+        },
+        {
+          "item": "Tooth half of key (moon key)",
+          "denominator": 125
+        }
+      ],
+      "pet": {
+        "item": "Moxi",
+        "denominator": 3000
+      },
+      "combatLevel": 263
+    },
+    {
+      "id": "doom-of-mokhaiotl",
+      "displayName": "Doom of Mokhaiotl",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Doom of Mokhaiotl"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
+      "dropGroups": [
+        {
+          "groupName": "First becomes available",
+          "drops": [
+            {
+              "item": "Mokhaiotl cloth (delve 2)",
+              "denominator": 2500
+            },
+            {
+              "item": "Eye of Ayak (delve 3)",
+              "denominator": 2000
+            },
+            {
+              "item": "Avernic treads (delve 4)",
+              "denominator": 1350
+            },
+            {
+              "item": "Dom, the pet (delve 6)",
+              "denominator": 1000
+            }
+          ]
+        },
+        {
+          "groupName": "Delve 9+ (capped rate)",
+          "drops": [
+            {
+              "item": "Mokhaiotl cloth",
+              "denominator": 540
+            },
+            {
+              "item": "Eye of Ayak",
+              "denominator": 540
+            },
+            {
+              "item": "Avernic treads",
+              "denominator": 540
+            },
+            {
+              "item": "Dom, the pet",
+              "denominator": 250
+            }
+          ]
+        }
+      ],
+      "combatLevel": 558
+    },
+    {
+      "id": "moons-of-peril",
+      "displayName": "Moons of Peril",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Blood Moon",
+        "Blue Moon",
+        "Eclipse Moon"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Moons_of_peril_chest",
+      "dropGroups": [
+        {
+          "groupName": "Blood Moon set (1/56 to roll this moon's set, then 1/4 for a specific piece)",
+          "drops": [
+            {
+              "item": "Blood moon helm",
+              "denominator": 224
+            },
+            {
+              "item": "Blood moon chestplate",
+              "denominator": 224
+            },
+            {
+              "item": "Blood moon tassets",
+              "denominator": 224
+            },
+            {
+              "item": "Dual macuahuitl",
+              "denominator": 224
+            }
+          ]
+        },
+        {
+          "groupName": "Blue Moon set (1/56 to roll this moon's set, then 1/4 for a specific piece)",
+          "drops": [
+            {
+              "item": "Blue moon helm",
+              "denominator": 224
+            },
+            {
+              "item": "Blue moon chestplate",
+              "denominator": 224
+            },
+            {
+              "item": "Blue moon tassets",
+              "denominator": 224
+            },
+            {
+              "item": "Blue moon spear",
+              "denominator": 224
+            }
+          ]
+        },
+        {
+          "groupName": "Eclipse Moon set (1/56 to roll this moon's set, then 1/4 for a specific piece)",
+          "drops": [
+            {
+              "item": "Eclipse moon helm",
+              "denominator": 224
+            },
+            {
+              "item": "Eclipse moon chestplate",
+              "denominator": 224
+            },
+            {
+              "item": "Eclipse moon tassets",
+              "denominator": 224
+            },
+            {
+              "item": "Eclipse atlatl",
+              "denominator": 224
+            }
+          ]
+        },
+        {
+          "groupName": "Chance of any unique",
+          "drops": [
+            {
+              "item": "1 moon subdued",
+              "denominator": 56
+            },
+            {
+              "item": "All 3 moons subdued",
+              "denominator": 19
+            }
+          ]
+        }
+      ],
+      "combatLevel": 329
+    },
+    {
+      "id": "obor",
+      "displayName": "Obor",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Obor"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Obor",
+      "drops": [
+        {
+          "item": "Giant key",
+          "denominator": 16
+        },
+        {
+          "item": "Long bone",
+          "denominator": 400
+        },
+        {
+          "item": "Curved bone",
+          "denominator": 5013
+        }
+      ],
+      "combatLevel": 106
+    },
+    {
+      "id": "bryophyta",
+      "displayName": "Bryophyta",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Bryophyta"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Bryophyta",
+      "drops": [
+        {
+          "item": "Mossy key",
+          "denominator": 16
+        },
+        {
+          "item": "Long bone",
+          "denominator": 400
+        },
+        {
+          "item": "Curved bone",
+          "denominator": 5013
+        }
+      ],
+      "combatLevel": 128
+    },
+    {
+      "id": "brutus",
+      "displayName": "Brutus",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Brutus"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Brutus",
+      "drops": [
+        {
+          "item": "Mooleta",
+          "denominator": 30
+        },
+        {
+          "item": "Bottomless milk bucket (empty)",
+          "denominator": 38
+        },
+        {
+          "item": "Cow slippers",
+          "denominator": 150
+        }
+      ],
+      "combatLevel": 30
+    },
+    {
+      "id": "mad-angel",
+      "displayName": "Mad Angel",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Mad Angel"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Mad_Angel",
+      "drops": [
+        {
+          "item": "Hallowfell",
+          "denominator": 127
+        },
+        {
+          "item": "Jar of Light",
+          "denominator": 1000
+        }
+      ],
+      "pet": {
+        "item": "Aggy",
+        "denominator": 2000
+      },
+      "combatLevel": 588
+    },
+    {
+      "id": "maggot-king",
+      "displayName": "Maggot King",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Maggot King"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Maggot_King",
+      "drops": [
+        {
+          "item": "Elder venator fang",
+          "denominator": 340
+        },
+        {
+          "item": "Crimson kisten",
+          "denominator": 520
+        }
+      ],
+      "pet": {
+        "item": "Maggot marquess",
+        "denominator": 3500
+      },
+      "combatLevel": 741
+    },
+    {
+      "id": "scurrius",
+      "displayName": "Scurrius",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Scurrius"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Scurrius",
+      "drops": [
+        {
+          "item": "Scurrius' spine",
+          "denominator": 33
+        },
+        {
+          "item": "Long bone",
+          "denominator": 400
+        },
+        {
+          "item": "Curved bone",
+          "denominator": 5013
+        }
+      ],
+      "pet": {
+        "item": "Scurry",
+        "denominator": 3000
+      },
+      "combatLevel": 200
+    },
+    {
+      "id": "deranged-archaeologist",
+      "displayName": "Deranged Archaeologist",
+      "category": "Other Bosses",
+      "npcNames": [
+        "Deranged archaeologist"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Deranged_Archaeologist",
+      "drops": [
+        {
+          "item": "Steel ring",
+          "denominator": 44
+        }
+      ],
+      "combatLevel": 276
+    },
+    {
+      "id": "the-hueycoatl",
+      "displayName": "The Hueycoatl",
+      "category": "Other Bosses",
+      "npcNames": [
+        "The Hueycoatl"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/The_Hueycoatl",
+      "drops": [
+        {
+          "item": "Dragon hunter wand",
+          "denominator": 105
+        },
+        {
+          "item": "Hueycoatl hide",
+          "denominator": 29
+        },
+        {
+          "item": "Tome of Earth (empty)",
+          "denominator": 90
+        },
+        {
+          "item": "Tooth half of key (moon key)",
+          "denominator": 75
+        }
+      ],
+      "pet": {
+        "item": "Huberte",
+        "denominator": 400
+      },
+      "combatLevel": 642
+    },
+    {
+      "id": "skotizo",
+      "displayName": "Skotizo",
+      "category": "Sporadic",
+      "npcNames": [
+        "Skotizo"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Skotizo",
+      "drops": [
+        {
+          "item": "Dark claw",
+          "denominator": 25
+        },
+        {
+          "item": "Uncut onyx",
+          "denominator": 1000
+        },
+        {
+          "item": "Jar of Darkness",
+          "denominator": 200
+        },
+        {
+          "item": "Dark totem (complete)",
+          "denominator": 128
+        },
+        {
+          "item": "Dark totem base",
+          "denominator": 128
+        },
+        {
+          "item": "Dark totem middle",
+          "denominator": 128
+        },
+        {
+          "item": "Dark totem top",
+          "denominator": 128
+        }
+      ],
+      "combined": [
+        {
+          "label": "Any dark totem piece/complete",
+          "denominator": 32
+        }
+      ],
+      "pet": {
+        "item": "Skotos",
+        "denominator": 65
+      },
+      "combatLevel": 321
+    },
+    {
+      "id": "hespori",
+      "displayName": "Hespori",
+      "category": "Sporadic",
+      "npcNames": [
+        "Hespori"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Hespori",
+      "drops": [
+        {
+          "item": "Bottomless compost bucket",
+          "denominator": 35
+        }
+      ],
+      "pet": {
+        "item": "Tangleroot (at 99 Farming)",
+        "denominator": 4525
+      },
+      "combatLevel": 284
+    },
+    {
+      "id": "the-mimic",
+      "displayName": "The Mimic",
+      "category": "Sporadic",
+      "npcNames": [
+        "The Mimic"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/The_Mimic",
+      "drops": [
+        {
+          "item": "Any 3rd age item (Elite casket)",
+          "denominator": 250
+        },
+        {
+          "item": "Any 3rd age item (Master casket)",
+          "denominator": 228
+        }
+      ],
+      "combatLevel": 186
+    },
+    {
+      "id": "tormented-demon",
+      "displayName": "Tormented Demon",
+      "category": "Demons & Gorillas",
+      "npcNames": [
+        "Tormented Demon"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Tormented_Demon",
+      "drops": [
+        {
+          "item": "Burning claw",
+          "denominator": 501
+        },
+        {
+          "item": "Tormented synapse",
+          "denominator": 500
+        }
+      ],
+      "combatLevel": 450
+    },
+    {
+      "id": "demonic-gorilla",
+      "displayName": "Demonic Gorilla",
+      "category": "Demons & Gorillas",
+      "npcNames": [
+        "Demonic gorilla"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Demonic_gorilla",
+      "drops": [
+        {
+          "item": "Zenyte shard",
+          "denominator": 300
+        },
+        {
+          "item": "Ballista limbs",
+          "denominator": 500
+        },
+        {
+          "item": "Ballista spring",
+          "denominator": 500
+        },
+        {
+          "item": "Light frame",
+          "denominator": 750
+        },
+        {
+          "item": "Heavy frame",
+          "denominator": 1500
+        },
+        {
+          "item": "Monkey tail",
+          "denominator": 1500
+        }
+      ],
+      "combatLevel": 275
+    },
+    {
+      "id": "tortured-gorilla",
+      "displayName": "Tortured Gorilla",
+      "category": "Demons & Gorillas",
+      "npcNames": [
+        "Tortured gorilla"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Tortured_gorilla",
+      "drops": [
+        {
+          "item": "Zenyte shard",
+          "denominator": 3000
+        },
+        {
+          "item": "Ballista limbs",
+          "denominator": 5000
+        },
+        {
+          "item": "Ballista spring",
+          "denominator": 5000
+        },
+        {
+          "item": "Light frame",
+          "denominator": 7500
+        },
+        {
+          "item": "Heavy frame",
+          "denominator": 15000
+        },
+        {
+          "item": "Monkey tail",
+          "denominator": 15000
+        }
+      ],
+      "combatLevel": 141
+    },
+    {
+      "id": "revenant-goblin",
+      "displayName": "Revenant goblin",
+      "category": "Revenants",
+      "npcNames": [
+        "Revenant goblin"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_goblin",
+      "dropGroups": [
+        {
+          "groupName": "Off task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 48867
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 97735
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 97735
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 97735
+            }
+          ]
+        },
+        {
+          "groupName": "Off task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 26877
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 53755
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 53755
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 53755
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 9773
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 19545
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 19545
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 19545
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 5375
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 10749
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 10749
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 10749
+            }
+          ]
+        },
+        {
+          "groupName": "Ancient artifacts (unaffected by task status)",
+          "drops": [
+            {
+              "item": "Ancient crystal (unskulled)",
+              "denominator": 9773
+            },
+            {
+              "item": "Ancient crystal (skulled)",
+              "denominator": 5375
+            },
+            {
+              "item": "Ancient statuette (unskulled)",
+              "denominator": 14660
+            },
+            {
+              "item": "Ancient statuette (skulled)",
+              "denominator": 8063
+            }
+          ]
+        }
+      ],
+      "combatLevel": 15
+    },
+    {
+      "id": "revenant-pyrefiend",
+      "displayName": "Revenant pyrefiend",
+      "category": "Revenants",
+      "npcNames": [
+        "Revenant pyrefiend"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_pyrefiend",
+      "dropGroups": [
+        {
+          "groupName": "Off task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 20934
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 41867
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 41867
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 41867
+            }
+          ]
+        },
+        {
+          "groupName": "Off task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 11514
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 23027
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 23027
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 23027
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 4186
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 8373
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 8373
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 8373
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 2302
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 4605
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 4605
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 4605
+            }
+          ]
+        },
+        {
+          "groupName": "Ancient artifacts (unaffected by task status)",
+          "drops": [
+            {
+              "item": "Ancient crystal (unskulled)",
+              "denominator": 4187
+            },
+            {
+              "item": "Ancient crystal (skulled)",
+              "denominator": 2303
+            },
+            {
+              "item": "Ancient statuette (unskulled)",
+              "denominator": 6280
+            },
+            {
+              "item": "Ancient statuette (skulled)",
+              "denominator": 3454
+            }
+          ]
+        }
+      ],
+      "combatLevel": 52
+    },
+    {
+      "id": "revenant-hobgoblin",
+      "displayName": "Revenant hobgoblin",
+      "category": "Revenants",
+      "npcNames": [
+        "Revenant hobgoblin"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_hobgoblin",
+      "dropGroups": [
+        {
+          "groupName": "Off task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 20934
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 41867
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 41867
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 41867
+            }
+          ]
+        },
+        {
+          "groupName": "Off task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 11514
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 23027
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 23027
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 23027
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 4186
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 8373
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 8373
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 8373
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 2302
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 4605
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 4605
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 4605
+            }
+          ]
+        },
+        {
+          "groupName": "Ancient artifacts (unaffected by task status)",
+          "drops": [
+            {
+              "item": "Ancient crystal (unskulled)",
+              "denominator": 4187
+            },
+            {
+              "item": "Ancient crystal (skulled)",
+              "denominator": 2303
+            },
+            {
+              "item": "Ancient statuette (unskulled)",
+              "denominator": 6280
+            },
+            {
+              "item": "Ancient statuette (skulled)",
+              "denominator": 3454
+            }
+          ]
+        }
+      ],
+      "combatLevel": 60
+    },
+    {
+      "id": "revenant-cyclops",
+      "displayName": "Revenant cyclops",
+      "category": "Revenants",
+      "npcNames": [
+        "Revenant cyclops"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_cyclops",
+      "dropGroups": [
+        {
+          "groupName": "Off task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 16267
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 32534
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 32534
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 32534
+            }
+          ]
+        },
+        {
+          "groupName": "Off task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 8947
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 17894
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 17894
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 17894
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 3253
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 6506
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 6506
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 6506
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 1789
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 3578
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 3578
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 3578
+            }
+          ]
+        },
+        {
+          "groupName": "Ancient artifacts (unaffected by task status)",
+          "drops": [
+            {
+              "item": "Ancient crystal (unskulled)",
+              "denominator": 3253
+            },
+            {
+              "item": "Ancient crystal (skulled)",
+              "denominator": 1789
+            },
+            {
+              "item": "Ancient statuette (unskulled)",
+              "denominator": 4880
+            },
+            {
+              "item": "Ancient statuette (skulled)",
+              "denominator": 2684
+            }
+          ]
+        }
+      ],
+      "combatLevel": 82
+    },
+    {
+      "id": "revenant-hellhound",
+      "displayName": "Revenant hellhound",
+      "category": "Revenants",
+      "npcNames": [
+        "Revenant hellhound"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_hellhound",
+      "dropGroups": [
+        {
+          "groupName": "Off task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 16267
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 32534
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 32534
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 32534
+            }
+          ]
+        },
+        {
+          "groupName": "Off task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 8947
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 17894
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 17894
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 17894
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 3253
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 6506
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 6506
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 6506
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 1789
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 3578
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 3578
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 3578
+            }
+          ]
+        },
+        {
+          "groupName": "Ancient artifacts (unaffected by task status)",
+          "drops": [
+            {
+              "item": "Ancient crystal (unskulled)",
+              "denominator": 3253
+            },
+            {
+              "item": "Ancient crystal (skulled)",
+              "denominator": 1789
+            },
+            {
+              "item": "Ancient statuette (unskulled)",
+              "denominator": 4880
+            },
+            {
+              "item": "Ancient statuette (skulled)",
+              "denominator": 2684
+            }
+          ]
+        }
+      ],
+      "combatLevel": 90
+    },
+    {
+      "id": "revenant-demon",
+      "displayName": "Revenant demon",
+      "category": "Revenants",
+      "npcNames": [
+        "Revenant demon"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_demon",
+      "dropGroups": [
+        {
+          "groupName": "Off task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 16267
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 32534
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 32534
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 32534
+            }
+          ]
+        },
+        {
+          "groupName": "Off task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 8947
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 17894
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 17894
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 17894
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 3253
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 6506
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 6506
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 6506
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 1789
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 3578
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 3578
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 3578
+            }
+          ]
+        },
+        {
+          "groupName": "Ancient artifacts (unaffected by task status)",
+          "drops": [
+            {
+              "item": "Ancient crystal (unskulled)",
+              "denominator": 3253
+            },
+            {
+              "item": "Ancient crystal (skulled)",
+              "denominator": 1789
+            },
+            {
+              "item": "Ancient statuette (unskulled)",
+              "denominator": 4880
+            },
+            {
+              "item": "Ancient statuette (skulled)",
+              "denominator": 2684
+            }
+          ]
+        }
+      ],
+      "combatLevel": 98
+    },
+    {
+      "id": "revenant-ork",
+      "displayName": "Revenant ork",
+      "category": "Revenants",
+      "npcNames": [
+        "Revenant ork"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_ork",
+      "dropGroups": [
+        {
+          "groupName": "Off task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 14667
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 29334
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 29334
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 29334
+            }
+          ]
+        },
+        {
+          "groupName": "Off task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 8067
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 16134
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 16134
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 16134
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 2933
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 5866
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 5866
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 5866
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 1613
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 3226
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 3226
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 3226
+            }
+          ]
+        },
+        {
+          "groupName": "Ancient artifacts (unaffected by task status)",
+          "drops": [
+            {
+              "item": "Ancient crystal (unskulled)",
+              "denominator": 2933
+            },
+            {
+              "item": "Ancient crystal (skulled)",
+              "denominator": 1613
+            },
+            {
+              "item": "Ancient statuette (unskulled)",
+              "denominator": 4400
+            },
+            {
+              "item": "Ancient statuette (skulled)",
+              "denominator": 2420
+            }
+          ]
+        }
+      ],
+      "combatLevel": 105
+    },
+    {
+      "id": "revenant-dark-beast",
+      "displayName": "Revenant dark beast",
+      "category": "Revenants",
+      "npcNames": [
+        "Revenant dark beast"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_dark_beast",
+      "dropGroups": [
+        {
+          "groupName": "Off task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 14667
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 29334
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 29334
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 29334
+            }
+          ]
+        },
+        {
+          "groupName": "Off task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 8067
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 16134
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 16134
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 16134
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 2933
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 5866
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 5866
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 5866
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 1613
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 3226
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 3226
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 3226
+            }
+          ]
+        },
+        {
+          "groupName": "Ancient artifacts (unaffected by task status)",
+          "drops": [
+            {
+              "item": "Ancient crystal (unskulled)",
+              "denominator": 2933
+            },
+            {
+              "item": "Ancient crystal (skulled)",
+              "denominator": 1613
+            },
+            {
+              "item": "Ancient statuette (unskulled)",
+              "denominator": 4400
+            },
+            {
+              "item": "Ancient statuette (skulled)",
+              "denominator": 2420
+            }
+          ]
+        }
+      ],
+      "combatLevel": 120
+    },
+    {
+      "id": "revenant-knight",
+      "displayName": "Revenant knight",
+      "category": "Revenants",
+      "npcNames": [
+        "Revenant knight"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_knight",
+      "dropGroups": [
+        {
+          "groupName": "Off task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 13334
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 26667
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 26667
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 26667
+            }
+          ]
+        },
+        {
+          "groupName": "Off task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 7334
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 14667
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 14667
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 14667
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 2667
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 5333
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 5333
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 5333
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 1467
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 2933
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 2933
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 2933
+            }
+          ]
+        },
+        {
+          "groupName": "Ancient artifacts (unaffected by task status)",
+          "drops": [
+            {
+              "item": "Ancient crystal (unskulled)",
+              "denominator": 2667
+            },
+            {
+              "item": "Ancient crystal (skulled)",
+              "denominator": 1467
+            },
+            {
+              "item": "Ancient statuette (unskulled)",
+              "denominator": 4000
+            },
+            {
+              "item": "Ancient statuette (skulled)",
+              "denominator": 2200
+            }
+          ]
+        }
+      ],
+      "combatLevel": 126
+    },
+    {
+      "id": "revenant-dragon",
+      "displayName": "Revenant dragon",
+      "category": "Revenants",
+      "npcNames": [
+        "Revenant dragon"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_dragon",
+      "dropGroups": [
+        {
+          "groupName": "Off task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 13334
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 26667
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 26667
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 26667
+            }
+          ]
+        },
+        {
+          "groupName": "Off task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 7334
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 14667
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 14667
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 14667
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 2667
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 5333
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 5333
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 5333
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 1467
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 2933
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 2933
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 2933
+            }
+          ]
+        },
+        {
+          "groupName": "Ancient artifacts (unaffected by task status)",
+          "drops": [
+            {
+              "item": "Ancient crystal (unskulled)",
+              "denominator": 2667
+            },
+            {
+              "item": "Ancient crystal (skulled)",
+              "denominator": 1467
+            },
+            {
+              "item": "Ancient statuette (unskulled)",
+              "denominator": 4000
+            },
+            {
+              "item": "Ancient statuette (skulled)",
+              "denominator": 2200
+            }
+          ]
+        }
+      ],
+      "combatLevel": 135
+    },
+    {
+      "id": "revenant-imp",
+      "displayName": "Revenant imp",
+      "category": "Revenants",
+      "npcNames": [
+        "Revenant imp"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_imp",
+      "dropGroups": [
+        {
+          "groupName": "Off task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 73334
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 146669
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 146669
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 146669
+            }
+          ]
+        },
+        {
+          "groupName": "Off task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 40334
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, unskulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 14666
+            },
+            {
+              "item": "Craw's bow (u)",
+              "denominator": 29332
+            },
+            {
+              "item": "Thammaron's sceptre (u)",
+              "denominator": 29332
+            },
+            {
+              "item": "Viggora's chainmace (u)",
+              "denominator": 29332
+            }
+          ]
+        },
+        {
+          "groupName": "On Wilderness Slayer task, skulled",
+          "drops": [
+            {
+              "item": "Amulet of avarice",
+              "denominator": 8066
+            }
+          ]
+        },
+        {
+          "groupName": "Ancient artifacts (unskulled only - skulled rates unconfirmed for this creature)",
+          "drops": [
+            {
+              "item": "Ancient crystal (unskulled)",
+              "denominator": 14667
+            },
+            {
+              "item": "Ancient statuette (unskulled)",
+              "denominator": 22000
+            }
+          ]
+        }
+      ],
+      "combatLevel": 7
+    },
+    {
+      "id": "greater-abyssal-demon",
+      "displayName": "Greater Abyssal Demon",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Greater abyssal demon"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 352
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 352
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 101
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 101
+        }
+      ],
+      "combatLevel": 342
+    },
+    {
+      "id": "colossal-hydra",
+      "displayName": "Colossal Hydra",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Colossal Hydra"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 160
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 160
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 46
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 46
+        }
+      ],
+      "combatLevel": 309
+    },
+    {
+      "id": "nechryarch",
+      "displayName": "Nechryarch",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Nechryarch"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 440
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 440
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 126
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 126
+        }
+      ],
+      "combatLevel": 300
+    },
+    {
+      "id": "night-beast",
+      "displayName": "Night beast",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Night beast"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 256
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 256
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 73
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 73
+        }
+      ],
+      "combatLevel": 374
+    },
+    {
+      "id": "guardian-drake",
+      "displayName": "Guardian Drake",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Guardian Drake"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 368
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 368
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 105
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 105
+        }
+      ],
+      "combatLevel": 376
+    },
+    {
+      "id": "basilisk-sentinel",
+      "displayName": "Basilisk Sentinel",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Basilisk Sentinel"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 760
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 760
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 217
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 217
+        }
+      ],
+      "combatLevel": 358
+    },
+    {
+      "id": "marble-gargoyle",
+      "displayName": "Marble gargoyle",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Marble gargoyle"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 520
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 520
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 149
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 149
+        }
+      ],
+      "combatLevel": 349
+    },
+    {
+      "id": "repugnant-spectre",
+      "displayName": "Repugnant spectre",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Repugnant spectre"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 760
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 760
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 217
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 217
+        }
+      ],
+      "combatLevel": 335
+    },
+    {
+      "id": "nuclear-smoke-devil",
+      "displayName": "Nuclear smoke devil",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Nuclear smoke devil"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 200
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 200
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 57
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 57
+        }
+      ],
+      "combatLevel": 280
+    },
+    {
+      "id": "king-kurask",
+      "displayName": "King kurask",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "King kurask"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 600
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 600
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 171
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 171
+        }
+      ],
+      "combatLevel": 295
+    },
+    {
+      "id": "choke-devil",
+      "displayName": "Choke devil",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Choke devil"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 680
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 680
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 194
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 194
+        }
+      ],
+      "combatLevel": 264
+    },
+    {
+      "id": "abhorrent-spectre",
+      "displayName": "Abhorrent spectre",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Abhorrent spectre"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 760
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 760
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 217
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 217
+        }
+      ],
+      "combatLevel": 253
+    },
+    {
+      "id": "insatiable-mutated-bloodveld",
+      "displayName": "Insatiable mutated Bloodveld",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Insatiable mutated Bloodveld"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 896
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 896
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 256
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 256
+        }
+      ],
+      "combatLevel": 278
+    },
+    {
+      "id": "insatiable-bloodveld",
+      "displayName": "Insatiable Bloodveld",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Insatiable Bloodveld"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 896
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 896
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 256
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 256
+        }
+      ],
+      "combatLevel": 202
+    },
+    {
+      "id": "vitreous-jelly",
+      "displayName": "Vitreous Jelly",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Vitreous Jelly"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 872
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 872
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 249
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 249
+        }
+      ],
+      "combatLevel": 206
+    },
+    {
+      "id": "vitreous-warped-jelly",
+      "displayName": "Vitreous Warped Jelly",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Vitreous Warped Jelly"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 872
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 872
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 249
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 249
+        }
+      ],
+      "combatLevel": 241
+    },
+    {
+      "id": "vitreous-chilled-jelly",
+      "displayName": "Vitreous Chilled Jelly",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Vitreous Chilled Jelly"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 872
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 872
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 249
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 249
+        }
+      ],
+      "combatLevel": 241
+    },
+    {
+      "id": "cave-abomination",
+      "displayName": "Cave abomination",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Cave abomination"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 784
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 784
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 224
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 224
+        }
+      ],
+      "combatLevel": 206
+    },
+    {
+      "id": "dreadborn-araxyte",
+      "displayName": "Dreadborn Araxyte",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Dreadborn Araxyte"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 224
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 224
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 64
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 64
+        }
+      ],
+      "combatLevel": 281
+    },
+    {
+      "id": "shadow-wyrm",
+      "displayName": "Shadow Wyrm",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Shadow Wyrm"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 728
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 728
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 208
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 208
+        }
+      ],
+      "combatLevel": 259
+    },
+    {
+      "id": "magma-strykewyrm",
+      "displayName": "Magma strykewyrm",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Magma strykewyrm"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 728
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 728
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 208
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 208
+        }
+      ],
+      "combatLevel": 249
+    },
+    {
+      "id": "spiked-turoth",
+      "displayName": "Spiked Turoth",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Spiked Turoth"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 832
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 832
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 238
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 238
+        }
+      ],
+      "combatLevel": 244
+    },
+    {
+      "id": "mutated-tortoise",
+      "displayName": "Mutated Tortoise",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Mutated Tortoise"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 816
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 816
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 233
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 233
+        }
+      ],
+      "combatLevel": 247
+    },
+    {
+      "id": "mutated-terrorbird",
+      "displayName": "Mutated Terrorbird",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Mutated Terrorbird"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 816
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 816
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 233
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 233
+        }
+      ],
+      "combatLevel": 178
+    },
+    {
+      "id": "screaming-banshee",
+      "displayName": "Screaming banshee",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Screaming banshee"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 1288
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 1288
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 368
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 368
+        }
+      ],
+      "combatLevel": 70
+    },
+    {
+      "id": "screaming-twisted-banshee",
+      "displayName": "Screaming twisted banshee",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Screaming twisted banshee"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 1288
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 1288
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 368
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 368
+        }
+      ],
+      "combatLevel": 144
+    },
+    {
+      "id": "flaming-pyrelord",
+      "displayName": "Flaming pyrelord",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Flaming pyrelord"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 1144
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 1144
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 327
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 327
+        }
+      ],
+      "combatLevel": 97
+    },
+    {
+      "id": "infernal-pyrelord",
+      "displayName": "Infernal pyrelord",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Infernal pyrelord"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 1144
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 1144
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 327
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 327
+        }
+      ],
+      "combatLevel": 134
+    },
+    {
+      "id": "chasm-crawler",
+      "displayName": "Chasm Crawler",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Chasm Crawler"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 1336
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 1336
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 382
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 382
+        }
+      ],
+      "combatLevel": 68
+    },
+    {
+      "id": "giant-rockslug",
+      "displayName": "Giant rockslug",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Giant rockslug"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 1240
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 1240
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 354
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 354
+        }
+      ],
+      "combatLevel": 86
+    },
+    {
+      "id": "monstrous-basilisk",
+      "displayName": "Monstrous basilisk",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Monstrous basilisk"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 1024
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 1024
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 293
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 293
+        }
+      ],
+      "combatLevel": 135
+    },
+    {
+      "id": "cockathrice",
+      "displayName": "Cockathrice",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Cockathrice"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 1192
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 1192
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 341
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 341
+        }
+      ],
+      "combatLevel": 89
+    },
+    {
+      "id": "malevolent-mage",
+      "displayName": "Malevolent Mage",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Malevolent Mage"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 960
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 960
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 274
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 274
+        }
+      ],
+      "combatLevel": 162
+    },
+    {
+      "id": "crushing-hand",
+      "displayName": "Crushing hand",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Crushing hand"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 1376
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 1376
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 393
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 393
+        }
+      ],
+      "combatLevel": 45
+    },
+    {
+      "id": "ancient-custodian",
+      "displayName": "Ancient Custodian",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Ancient Custodian"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 504
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 504
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 144
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 144
+        }
+      ],
+      "combatLevel": 239
+    },
+    {
+      "id": "elder-aquanite",
+      "displayName": "Elder aquanite",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Elder aquanite"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 472
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 472
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 135
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 135
+        }
+      ],
+      "combatLevel": 305
+    },
+    {
+      "id": "dire-gryphon",
+      "displayName": "Dire gryphon",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Dire gryphon"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 888
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 888
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 254
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 254
+        }
+      ],
+      "combatLevel": 209
+    },
+    {
+      "id": "blood-starved-venator",
+      "displayName": "Blood-starved venator",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Blood-starved venator"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Imbued heart",
+          "denominator": 536
+        },
+        {
+          "item": "Eternal gem",
+          "denominator": 536
+        },
+        {
+          "item": "Dust battlestaff",
+          "denominator": 153
+        },
+        {
+          "item": "Mist battlestaff",
+          "denominator": 153
+        }
+      ],
+      "combatLevel": 246
+    },
+    {
+      "id": "waterfiend",
+      "displayName": "Waterfiend",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Waterfiend"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Mist battlestaff",
+          "denominator": 3000
+        }
+      ],
+      "combatLevel": 115
+    },
+    {
+      "id": "dust-devil",
+      "displayName": "Dust devil",
+      "category": "Superior Creatures",
+      "npcNames": [
+        "Dust devil"
+      ],
+      "type": "SIMPLE",
+      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
+      "drops": [
+        {
+          "item": "Dust battlestaff",
+          "denominator": 4000
+        }
+      ],
+      "combatLevel": 93
+    }
+  ]
+}
