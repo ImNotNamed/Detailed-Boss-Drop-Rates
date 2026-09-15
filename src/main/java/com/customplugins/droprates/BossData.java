@@ -12,7 +12,6 @@ class BossData
 	private Integer combatLevel;
 	private List<String> npcNames;
 	private DropEntryType type;
-	private String wikiUrl;
 
 	// MULTI_ROLL
 	private Integer rollsPerKill;

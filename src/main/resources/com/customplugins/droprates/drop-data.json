@@ -8,7 +8,6 @@
         "General Graardor"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/General_Graardor",
       "dropGroups": [
         {
           "groupName": "Main uniques",
@@ -108,7 +107,6 @@
         "Kree'arra"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Kree%27arra",
       "dropGroups": [
         {
           "groupName": "Main uniques",
@@ -208,7 +206,6 @@
         "Commander Zilyana"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Commander_Zilyana",
       "dropGroups": [
         {
           "groupName": "Main uniques",
@@ -296,7 +293,6 @@
         "K'ril Tsutsaroth"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/K%27ril_Tsutsaroth",
       "dropGroups": [
         {
           "groupName": "Main uniques",
@@ -384,7 +380,6 @@
         "Nex"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Nex",
       "drops": [
         {
           "item": "Ancient hilt",
@@ -429,7 +424,6 @@
       "category": "Raids",
       "npcNames": [],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Theatre_of_Blood",
       "dropGroups": [
         {
           "groupName": "Chance of any unique (per completion)",
@@ -506,7 +500,6 @@
       "category": "Raids",
       "npcNames": [],
       "type": "POINTS_BASED",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Chambers_of_Xeric",
       "pointsPerPercent": 8675,
       "capPercent": 65.7,
       "capPoints": 570000,
@@ -642,7 +635,6 @@
       "category": "Raids",
       "npcNames": [],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Chest_(Tombs_of_Amascut)",
       "dropGroups": [
         {
           "groupName": "Thread of Elidinis",
@@ -715,7 +707,6 @@
         "Wintertodt"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Wintertodt",
       "drops": [
         {
           "item": "Dragon axe",
@@ -755,7 +746,6 @@
         "Tempoross"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Tempoross",
       "drops": [
         {
           "item": "Dragon harpoon",
@@ -799,7 +789,6 @@
         "Zalcano"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Zalcano",
       "drops": [
         {
           "item": "Uncut onyx",
@@ -830,7 +819,6 @@
       "category": "Skilling Bosses",
       "npcNames": [],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Rewards_Guardian",
       "drops": [
         {
           "item": "Abyssal lantern",
@@ -886,7 +874,6 @@
         "King Black Dragon"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/King_Black_Dragon",
       "drops": [
         {
           "item": "Dragon pickaxe",
@@ -917,7 +904,6 @@
         "Chaos Elemental"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Chaos_Elemental",
       "drops": [
         {
           "item": "Dragon pickaxe",
@@ -948,7 +934,6 @@
         "Crazy Archaeologist"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Crazy_Archaeologist",
       "drops": [
         {
           "item": "Odium shard 2",
@@ -975,7 +960,6 @@
         "Chaos Fanatic"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Chaos_Fanatic",
       "drops": [
         {
           "item": "Odium shard 1",
@@ -1014,7 +998,6 @@
         "Artio"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Artio",
       "drops": [
         {
           "item": "Dragon 2h sword",
@@ -1057,7 +1040,6 @@
         "Callisto"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Callisto",
       "drops": [
         {
           "item": "Claws of Callisto",
@@ -1100,7 +1082,6 @@
         "Spindel"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Spindel",
       "drops": [
         {
           "item": "Dragon 2h sword",
@@ -1143,7 +1124,6 @@
         "Venenatis"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Venenatis",
       "drops": [
         {
           "item": "Fangs of Venenatis",
@@ -1186,7 +1166,6 @@
         "Calvar'ion"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Calvar%27ion",
       "drops": [
         {
           "item": "Dragon 2h sword",
@@ -1230,7 +1209,6 @@
         "Vet'ion Reborn"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Vet%27ion",
       "drops": [
         {
           "item": "Skull of Vet'ion",
@@ -1273,7 +1251,6 @@
         "Scorpia"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Scorpia",
       "drops": [
         {
           "item": "Odium shard 3",
@@ -1304,7 +1281,6 @@
         "Revenant Maledictus"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_Maledictus",
       "dropGroups": [
         {
           "groupName": "Off task, unskulled",
@@ -1422,7 +1398,6 @@
         "Crystalline Hunllef"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Gauntlet_reward_chest",
       "drops": [
         {
           "item": "Crystal weapon seed",
@@ -1451,7 +1426,6 @@
         "Corrupted Hunllef"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Gauntlet_reward_chest",
       "drops": [
         {
           "item": "Crystal weapon seed",
@@ -1480,7 +1454,6 @@
         "TzTok-Jad"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/TzTok-Jad",
       "drops": [
         {
           "item": "Tzrek-jad (off-task)",
@@ -1501,7 +1474,6 @@
         "TzKal-Zuk"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/TzKal-Zuk",
       "drops": [
         {
           "item": "Jal-nib-rek (off-task)",
@@ -1522,7 +1494,6 @@
         "Sol Heredit"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Sol_Heredit",
       "drops": [
         {
           "item": "Tonalztics of ralos (uncharged, wave 12)",
@@ -1547,7 +1518,6 @@
         "Shellbane gryphon"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Shellbane_gryphon",
       "drops": [
         {
           "item": "Belle's folly (tarnished)",
@@ -1573,7 +1543,6 @@
         "Dusk"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Grotesque_Guardians",
       "drops": [
         {
           "item": "Granite maul",
@@ -1610,7 +1579,6 @@
         "Abyssal Sire"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Abyssal_Sire",
       "dropGroups": [
         {
           "groupName": "Unsired (main unique roll)",
@@ -1669,7 +1637,6 @@
         "Kraken"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Kraken",
       "drops": [
         {
           "item": "Trident of the seas (full)",
@@ -1698,7 +1665,6 @@
         "Cerberus"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Cerberus",
       "drops": [
         {
           "item": "Primordial crystal",
@@ -1735,7 +1701,6 @@
         "Araxxor"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Araxxor",
       "drops": [
         {
           "item": "Noxious pommel",
@@ -1774,7 +1739,6 @@
         "Thermonuclear smoke devil"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Thermonuclear_smoke_devil",
       "drops": [
         {
           "item": "Occult necklace",
@@ -1807,7 +1771,6 @@
         "Alchemical Hydra"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Alchemical_Hydra",
       "drops": [
         {
           "item": "Hydra's eye",
@@ -1860,7 +1823,6 @@
         "Zulrah"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Zulrah",
       "dropGroups": [
         {
           "groupName": "Uniques",
@@ -1928,7 +1890,6 @@
         "Verac the Defiled"
       ],
       "type": "KILLCOUNT_FORMULA",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Chest_(Barrows)",
       "formulaLabel": "Brothers killed before looting the chest",
       "killcountRates": [
         {
@@ -2025,7 +1986,6 @@
         "Corporeal Beast"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Corporeal_Beast",
       "drops": [
         {
           "item": "Spectral sigil",
@@ -2066,7 +2026,6 @@
         "Kalphite Queen"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Kalphite_Queen",
       "drops": [
         {
           "item": "Kq head",
@@ -2103,7 +2062,6 @@
         "Dagannoth Rex"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Dagannoth_Rex",
       "drops": [
         {
           "item": "Berserker ring",
@@ -2132,7 +2090,6 @@
         "Dagannoth Prime"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Dagannoth_Prime",
       "drops": [
         {
           "item": "Seers ring",
@@ -2161,7 +2118,6 @@
         "Dagannoth Supreme"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Dagannoth_Supreme",
       "drops": [
         {
           "item": "Archers ring",
@@ -2190,7 +2146,6 @@
         "Giant Mole"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Giant_Mole",
       "drops": [
         {
           "item": "Immaculate mole skin",
@@ -2219,7 +2174,6 @@
         "Sarachnis"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Sarachnis",
       "drops": [
         {
           "item": "Sarachnis cudgel",
@@ -2248,7 +2202,6 @@
         "Vorkath"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Vorkath",
       "drops": [
         {
           "item": "Dragonbone necklace",
@@ -2281,7 +2234,6 @@
         "Duke Sucellus"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Duke_Sucellus",
       "dropGroups": [
         {
           "groupName": "Regular",
@@ -2373,7 +2325,6 @@
         "The Leviathan"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/The_Leviathan",
       "dropGroups": [
         {
           "groupName": "Regular",
@@ -2465,7 +2416,6 @@
         "The Whisperer"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/The_Whisperer",
       "dropGroups": [
         {
           "groupName": "Regular",
@@ -2557,7 +2507,6 @@
         "Vardorvis"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Vardorvis",
       "dropGroups": [
         {
           "groupName": "Regular",
@@ -2649,7 +2598,6 @@
         "Phantom Muspah"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Phantom_Muspah",
       "drops": [
         {
           "item": "Frozen cache",
@@ -2678,7 +2626,6 @@
         "The Nightmare"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/The_Nightmare",
       "dropGroups": [
         {
           "groupName": "Armour/staff table (solo baseline)",
@@ -2737,7 +2684,6 @@
         "Phosani's Nightmare"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Phosani%27s_Nightmare",
       "dropGroups": [
         {
           "groupName": "Armour/staff table",
@@ -2796,7 +2742,6 @@
         "Yama"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Yama",
       "drops": [
         {
           "item": "Soulflame horn",
@@ -2829,7 +2774,6 @@
         "Eldric the Ice King"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Royal_Titans",
       "drops": [
         {
           "item": "Ice element staff crown",
@@ -2858,7 +2802,6 @@
         "Branda the Fire Queen"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Royal_Titans",
       "drops": [
         {
           "item": "Fire element staff crown",
@@ -2887,7 +2830,6 @@
         "Amoxliatl"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Amoxliatl",
       "drops": [
         {
           "item": "Glacial temotli",
@@ -2916,7 +2858,6 @@
         "Doom of Mokhaiotl"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Doom_of_Mokhaiotl",
       "dropGroups": [
         {
           "groupName": "First becomes available",
@@ -2973,7 +2914,6 @@
         "Eclipse Moon"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Moons_of_peril_chest",
       "dropGroups": [
         {
           "groupName": "Blood Moon set (1/56 to roll this moon's set, then 1/4 for a specific piece)",
@@ -3062,7 +3002,6 @@
         "Obor"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Obor",
       "drops": [
         {
           "item": "Giant key",
@@ -3087,7 +3026,6 @@
         "Bryophyta"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Bryophyta",
       "drops": [
         {
           "item": "Mossy key",
@@ -3112,7 +3050,6 @@
         "Brutus"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Brutus",
       "drops": [
         {
           "item": "Mooleta",
@@ -3137,7 +3074,6 @@
         "Mad Angel"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Mad_Angel",
       "drops": [
         {
           "item": "Hallowfell",
@@ -3162,7 +3098,6 @@
         "Maggot King"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Maggot_King",
       "drops": [
         {
           "item": "Elder venator fang",
@@ -3187,7 +3122,6 @@
         "Scurrius"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Scurrius",
       "drops": [
         {
           "item": "Scurrius' spine",
@@ -3216,7 +3150,6 @@
         "Deranged archaeologist"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Deranged_Archaeologist",
       "drops": [
         {
           "item": "Steel ring",
@@ -3233,7 +3166,6 @@
         "The Hueycoatl"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/The_Hueycoatl",
       "drops": [
         {
           "item": "Dragon hunter wand",
@@ -3266,7 +3198,6 @@
         "Skotizo"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Skotizo",
       "drops": [
         {
           "item": "Dark claw",
@@ -3317,7 +3248,6 @@
         "Hespori"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Hespori",
       "drops": [
         {
           "item": "Bottomless compost bucket",
@@ -3338,7 +3268,6 @@
         "The Mimic"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/The_Mimic",
       "drops": [
         {
           "item": "Any 3rd age item (Elite casket)",
@@ -3359,7 +3288,6 @@
         "Tormented Demon"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Tormented_Demon",
       "drops": [
         {
           "item": "Burning claw",
@@ -3380,7 +3308,6 @@
         "Demonic gorilla"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Demonic_gorilla",
       "drops": [
         {
           "item": "Zenyte shard",
@@ -3417,7 +3344,6 @@
         "Tortured gorilla"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Tortured_gorilla",
       "drops": [
         {
           "item": "Zenyte shard",
@@ -3454,7 +3380,6 @@
         "Revenant goblin"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_goblin",
       "dropGroups": [
         {
           "groupName": "Off task, unskulled",
@@ -3572,7 +3497,6 @@
         "Revenant pyrefiend"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_pyrefiend",
       "dropGroups": [
         {
           "groupName": "Off task, unskulled",
@@ -3690,7 +3614,6 @@
         "Revenant hobgoblin"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_hobgoblin",
       "dropGroups": [
         {
           "groupName": "Off task, unskulled",
@@ -3808,7 +3731,6 @@
         "Revenant cyclops"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_cyclops",
       "dropGroups": [
         {
           "groupName": "Off task, unskulled",
@@ -3926,7 +3848,6 @@
         "Revenant hellhound"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_hellhound",
       "dropGroups": [
         {
           "groupName": "Off task, unskulled",
@@ -4044,7 +3965,6 @@
         "Revenant demon"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_demon",
       "dropGroups": [
         {
           "groupName": "Off task, unskulled",
@@ -4162,7 +4082,6 @@
         "Revenant ork"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_ork",
       "dropGroups": [
         {
           "groupName": "Off task, unskulled",
@@ -4280,7 +4199,6 @@
         "Revenant dark beast"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_dark_beast",
       "dropGroups": [
         {
           "groupName": "Off task, unskulled",
@@ -4398,7 +4316,6 @@
         "Revenant knight"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_knight",
       "dropGroups": [
         {
           "groupName": "Off task, unskulled",
@@ -4516,7 +4433,6 @@
         "Revenant dragon"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_dragon",
       "dropGroups": [
         {
           "groupName": "Off task, unskulled",
@@ -4634,7 +4550,6 @@
         "Revenant imp"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Revenant_imp",
       "dropGroups": [
         {
           "groupName": "Off task, unskulled",
@@ -4720,7 +4635,6 @@
         "Greater abyssal demon"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -4749,7 +4663,6 @@
         "Colossal Hydra"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -4778,7 +4691,6 @@
         "Nechryarch"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -4807,7 +4719,6 @@
         "Night beast"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -4836,7 +4747,6 @@
         "Guardian Drake"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -4865,7 +4775,6 @@
         "Basilisk Sentinel"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -4894,7 +4803,6 @@
         "Marble gargoyle"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -4923,7 +4831,6 @@
         "Repugnant spectre"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -4952,7 +4859,6 @@
         "Nuclear smoke devil"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -4981,7 +4887,6 @@
         "King kurask"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5010,7 +4915,6 @@
         "Choke devil"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5039,7 +4943,6 @@
         "Abhorrent spectre"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5068,7 +4971,6 @@
         "Insatiable mutated Bloodveld"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5097,7 +4999,6 @@
         "Insatiable Bloodveld"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5126,7 +5027,6 @@
         "Vitreous Jelly"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5155,7 +5055,6 @@
         "Vitreous Warped Jelly"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5184,7 +5083,6 @@
         "Vitreous Chilled Jelly"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5213,7 +5111,6 @@
         "Cave abomination"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5242,7 +5139,6 @@
         "Dreadborn Araxyte"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5271,7 +5167,6 @@
         "Shadow Wyrm"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5300,7 +5195,6 @@
         "Magma strykewyrm"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5329,7 +5223,6 @@
         "Spiked Turoth"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5358,7 +5251,6 @@
         "Mutated Tortoise"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5387,7 +5279,6 @@
         "Mutated Terrorbird"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5416,7 +5307,6 @@
         "Screaming banshee"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5445,7 +5335,6 @@
         "Screaming twisted banshee"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5474,7 +5363,6 @@
         "Flaming pyrelord"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5503,7 +5391,6 @@
         "Infernal pyrelord"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5532,7 +5419,6 @@
         "Chasm Crawler"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5561,7 +5447,6 @@
         "Giant rockslug"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5590,7 +5475,6 @@
         "Monstrous basilisk"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5619,7 +5503,6 @@
         "Cockathrice"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5648,7 +5531,6 @@
         "Malevolent Mage"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5677,7 +5559,6 @@
         "Crushing hand"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5706,7 +5587,6 @@
         "Ancient Custodian"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5735,7 +5615,6 @@
         "Elder aquanite"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5764,7 +5643,6 @@
         "Dire gryphon"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5793,7 +5671,6 @@
         "Blood-starved venator"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Imbued heart",
@@ -5822,7 +5699,6 @@
         "Waterfiend"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Mist battlestaff",
@@ -5839,7 +5715,6 @@
         "Dust devil"
       ],
       "type": "SIMPLE",
-      "wikiUrl": "https://oldschool.runescape.wiki/w/Superior_slayer_monster",
       "drops": [
         {
           "item": "Dust battlestaff",

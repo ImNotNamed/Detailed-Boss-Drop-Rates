@@ -560,13 +560,14 @@ class DropRatesPanel extends PluginPanel
 				break;
 		}
 
-		if (data.getWikiUrl() != null)
+		String wikiUrl = WikiUrls.get(data.getId());
+		if (wikiUrl != null)
 		{
 			addVerticalGap(6);
 			JButton wikiButton = new JButton("View on Wiki");
 			wikiButton.setAlignmentX(Component.LEFT_ALIGNMENT);
 			wikiButton.setFocusPainted(false);
-			wikiButton.addActionListener(e -> LinkBrowser.browse(data.getWikiUrl()));
+			wikiButton.addActionListener(e -> LinkBrowser.browse(wikiUrl));
 			detailPanel.add(wikiButton);
 		}
 
