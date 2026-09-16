@@ -1,26 +1,5 @@
 # Unique Drop Rates
 
-A RuneLite plugin that shows a monster's unique drop rates - individual odds and
-combined ("any unique") odds - before you go fight it, instead of needing to alt-tab
-to the wiki.
+Unique Drop Rates is a RuneLite plugin for looking up a monster's unique drop rates without leaving the game to check the wiki. Right-click any boss you can see for an instant "View drop rates" option, or open the sidebar panel and search by boss name or item name — searching "shard," for example, surfaces every boss that can drop a godsword shard. Each boss's page shows individual item odds alongside combined ("any unique") odds, grouped and color-coded so you can see at a glance which items share the same drop rate, plus dedicated pet and secondary-source sections where relevant. More complex mechanics get their own interactive tools: a live killcount calculator for Barrows, and a points-based calculator for Chambers of Xeric that updates as you enter your team's points.
 
-Right-click a monster you can see for an instant "View drop rates" option, or use
-the sidebar panel to search for any monster by name.
-
-## Data coverage (v1)
-
-This is an initial version covering one example of each reward mechanism found in
-the game, as a foundation to expand from:
-
-- **Simple table**: General Graardor
-- **Multiple rolls per kill**: Zulrah (2 rolls/kill)
-- **Killcount-dependent formula**: Barrows (chance depends on brothers killed)
-- **Points-based, not tied to a single kill**: Chambers of Xeric
-- **Points converted to table rolls**: Wintertodt
-- **Superior slayer monsters** (rates vary a lot per monster): Greater abyssal
-  demon, Colossal Hydra, Nechryarch
-
-Data is bundled locally (`src/main/resources/com/customplugins/droprates/drop-data.json`)
-rather than fetched live from the wiki, sourced from the OSRS Wiki's own published
-rates. Anything not yet in the dataset simply won't show a menu option or search
-result yet - more monsters can be added by extending that JSON file.
+Coverage spans God Wars Dungeon, all three raids, wilderness and revenant bosses, slayer bosses, superior slayer monsters, and a long tail of other bosses and minigames, all sourced from the OSRS Wiki. The panel is fully configurable: sort categories and bosses by default order, alphabetically, or by combat level; reorder or hide specific categories and bosses; customize fonts and colors for titles, categories, and item names; collapse categories you don't need to see; and optionally track which drops you've already collected, with state that persists across sessions.
